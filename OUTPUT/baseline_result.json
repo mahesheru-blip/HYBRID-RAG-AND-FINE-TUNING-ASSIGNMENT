@@ -1,0 +1,5 @@
+{
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "query": "My package was supposed to arrive a few days ago, but I still haven't received it. What is going on?",
+    "response": "I'm sorry to hear that you're experiencing delays with your package delivery. Here are some steps you can take:\n\n1. Check your tracking information: Make sure you have access to the tracking number for your package. This will allow you to monitor its progress.\n\n2. Contact the shipping company: Reach out to the shipping company responsible for delivering your package (e.g., UPS, FedEx, or USPS) to inquire about any issues they might be facing.\n\n3. Verify the status of your order: If possible, check if your order has been canceled due to unforeseen circumstances like weather conditions or other"
+}

@@ -1,0 +1,24 @@
+{
+    "model_id": "Qwen/Qwen2.5-1.5B-Instruct",
+    "training_method": "QLoRA",
+    "quantization": {
+        "load_in_4bit": true,
+        "quantization_type": "NF4"
+    },
+    "lora_config": {
+        "target_modules": [
+            "q_proj",
+            "v_proj"
+        ]
+    },
+    "learning_rate": 0.0002,
+    "batch_size": 4,
+    "max_steps": 200,
+    "validation_every": 10,
+    "early_stopping_patience": 3,
+    "max_length": 128,
+    "optimizer": "AdamW",
+    "seed": 42,
+    "best_validation_loss": 0.5167660923028479,
+    "steps_completed": 200
+}

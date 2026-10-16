@@ -1,0 +1,3 @@
+Dataset,Format Adherence (%),Exact Match (%),Fuzzy Match (%)
+Held-out Test,100.0,7.672634271099745,11.508951406649617
+Adversarial,,,

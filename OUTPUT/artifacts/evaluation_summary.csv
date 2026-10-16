@@ -1,0 +1,4 @@
+Metric,Baseline,Naive RAG,Percentage Change
+Functional Correctness,95.0,75.0,-21.052631578947366
+Consistency,100.0,100.0,0.0
+Hallucination Frequency,0.0,0.0,

@@ -1,0 +1,1513 @@
+instruction,reference,prediction,rouge1,rouge2,rougeL,bleu
+need help to shop several of ur item,place_order,"I'm sorry, but I don't understand your request. Could you please clarify what you need assistance with?",0.0,0.0,0.0,0.0
+i need assistance trying to update the shipping address,change_shipping_address,"To assist you in updating the shipping address, please follow these steps:
+
+1. Locate your order by providing the order identifier and the registered email.
+2. Obtain the tracking number and carrier link from the tracking section of the service.
+3. Contact the carrier directly through the carrier link to make the necessary changes to the shipping address.
+4. Follow any additional instructions provided by the carrier regarding the address change process.
+
+Please ensure that you keep track of the progress made towards the updated shipping address and reach out again if needed.",0.0625,0.021276595744680847,0.0625,0.0
+I do not know how to check the cancellation  penalties,check_cancellation_fee,"The cancellation options you have mentioned include ""Cancel at period end"" and ""Immediate cancellation"". The ""Cancel at period end"" option allows your account to continue until the paid period expires without additional charges occurring. If you choose this option, you will receive a refund for any unused time remaining in your subscription plan according to the refund policy. 
+
+Please note that the ""Immediate cancellation"" option means that your access will end immediately, but you can still get a refund based on the terms of your subscription plan or local laws. However, please keep in mind that some plans might not allow refunds for unused time",0.018518518518518517,0.0,0.018518518518518517,0.0
+want assistance to see the payment modalities,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can be combined with one other payment method at checkout. Cash on delivery is not offered for online orders.",0.0909090909090909,0.047619047619047616,0.0909090909090909,0.0
+how can I get information about opening a standard account?,create_account,"To obtain information about opening a standard account, you should follow these steps:
+
+1. Verify your identity by providing proof of identification (e.g., driver's license) and confirming your email address.
+2. Once verified, select ""Open Account"" from the main menu.
+3. Follow the prompts to complete the account opening process, including entering your personal information and choosing a payment method.
+4. Your account will be opened once all required documents have been submitted and approved.",0.025316455696202535,0.0,0.025316455696202535,0.0
+I do not know how to see the status of order {{Order Number}},track_order,"To help you track your order, please use the following steps:
+
+1. Locate the order by its identifier ({{Order Number}}) and the registered email.
+2. Follow these instructions: 
+   - **Finding the Order**: Use the tracking number and carrier link provided above.
+   - **Tracking**: It may take up to 24 hours for the tracking event to appear on the screen after creating a label. A label without any movement on Day One is expected, not lost.
+   
+Please note that if the order is out for delivery but hasn't been received, we recommend checking with neighbors",0.04210526315789474,0.0,0.04210526315789474,0.0
+need help editing m address,change_shipping_address,"I'm sorry, I didn't understand your request. Could you please clarify what you need assistance with?",0.0,0.0,0.0,0.0
+how do I see at what time I can call customer support?,contact_customer_service,"The live chat and phone support operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region. You can check these operating hours directly through our help center.",0.0,0.0,0.0,0.0
+using standard accouny,switch_account,Hello! I have a question regarding my personal data. Could you please help me understand how to proceed?,0.0,0.0,0.0,0.0
+I cannot afford order {{Order Number}},cancel_order,"It seems you're having trouble paying for your order. The store authorizes payments but doesn't capture them until shipping. This means there may be a delay in processing your payment. Please check your bank statements or contact your bank to see if there are any issues with your payment. If you continue to have difficulty, please let us know so we can assist further.",0.029411764705882356,0.0,0.029411764705882356,0.0
+speaking with assistant,contact_human_agent,Hello! I'm having some issues with my account. Can you help me?,0.0,0.0,0.0,0.0
+wanna see what shipment methods i can choose how do i do it,delivery_options,"To view your shipment options, you can go to the 'Order Details' section of your account. Here, you will find all the available shipping methods along with their respective costs. Please note that this process may vary slightly depending on the platform or system you're using. Once you've selected your preferred method, proceed to checkout.",0.033898305084745756,0.0,0.033898305084745756,0.0
+I can't check if there is anything wrong with my rebate,track_refund,"The process you're referring to seems to be related to refunds or disputes, but your question specifically about checking rebates doesn't seem to fit into the typical scope of the ""Billing Disputes"" SOP. 
+
+However, I'll try to help based on what we know:
+
+### Step-by-step Guide:
+
+1. **Identify the Charge**: Go through your transactions to find any unexpected charges or discrepancies. This could include looking at your bill, reviewing recent purchases, or checking your statements.
+
+2. **Match the Charge**: Try to match these charges to orders, subscriptions, taxes, or shipping",0.020833333333333336,0.0,0.020833333333333336,0.0
+I have an issue submitting the secondray delivery address,set_up_shipping_address,"Thank you for reaching out. To proceed, could you please confirm your shipping address? We will then work through this together. Please note that we may need to contact the carrier to resolve this issue.",0.10256410256410256,0.05405405405405406,0.10256410256410256,0.0
+can i place an order from {{Delivery City}},delivery_options,"To place an order from {{Delivery City}}, please visit our website and select your preferred product(s). Once you've selected your items, proceed to checkout. Please note that we do not currently support orders placed directly through this chat interface. You will need to go to our website to complete your purchase.",0.03636363636363636,0.0,0.03636363636363636,0.0
+have a problem with creating my platinum account,create_account,"To help you better, could you please provide more details about your issue? Specifically, what kind of account creation process are you trying to perform? Also, if possible, let me know which part of the process is causing the issue - the sign-up screen, the email verification step, or something else. This will allow us to gather more specific information to assist you further.",0.030303030303030304,0.0,0.030303030303030304,0.0
+I do not know what I need to do to send some damn feedback,review,"To send feedback, you can follow these steps:
+
+1. Verify your identity by checking if an account exists at the email address associated with your account.
+2. If you have questions about your account or personal data, contact the support team via email or phone.
+3. Follow the guidelines outlined above to submit your feedback.",0.0,0.0,0.0,0.0
+I have to check if there are any updates on the restitution,track_refund,"To check for updates related to your issue, please try the following:
+
+1. Update to the latest version of the app.
+2. Restart the app.
+3. Clear the cache.
+4. Retry on another network or device.
+
+If these steps do not resolve the issue, we may need to escalate further. Please let us know if you encounter any other symptoms or if you have tried the above steps.",0.0,0.0,0.0,0.0
+help me to acquire some of your article,place_order,"I'm sorry, but I don't have any articles to offer you at this time. Could you please clarify if you're looking for information related to our services or products?",0.0,0.0,0.0,0.0
+track order {{Order Number}},track_order,"To track your order, please use the following details:
+
+- **Tracking Number:** [Your Tracking Number]
+- **Carrier Link:** <https://www.example.com/tracking>
+
+The order is currently in the **Preparing to Ship** state. Your package will be shipped shortly and you should receive it within 24 hours of shipment. Please keep this tracking number handy as we may need to follow up if there are any issues during delivery.",0.05797101449275362,0.0,0.05797101449275362,0.0
+repor sign-up problems,registration_problems,"I'm sorry, I didn't understand your question. Could you please clarify what specific issues you're experiencing?",0.0,0.0,0.0,0.0
+is it possible to see the bills from {{Person Name}}?,check_invoice,"The tracking system allows you to view the bill details of {{Person Name}}, but please note that this feature may not be available if they have already received the shipment. If you're unable to track the shipment, we recommend checking with the carrier directly or contacting your local post office for assistance.",0.03636363636363636,0.0,0.03636363636363636,0.0
+assistance opening user account,registration_problems,"Hello! I'm here to help you open your account. Please follow these steps:
+
+1. Go to our website and click on the ""Sign Up"" button.
+2. Fill out the required fields: first name, last name, email address, and phone number.
+3. Click on the ""Create Account"" button when done.
+4. Enter your chosen username and password (make sure they meet our requirements).
+5. Verify your email by clicking on the confirmation link we'll send to your registered email address.
+
+Please make sure to double-check all details and keep them safe. Once you're signed",0.0,0.0,0.0,0.0
+I have to create a premium account for my fiance,create_account,"To proceed with creating a premium account for your fiancé, we need to follow these steps:
+
+1. Verify Identity: We will first ensure that you are who you claim to be by verifying your identity. This step ensures that no unauthorized accounts are created.
+
+2. Identify the Specific Right Being Exercised: Since this is related to creating a new account, we will identify the specific rights involved.
+
+3. Log the Request: Once the identity has been verified, we will log the request for creating a new account.
+
+4. Route Deletion or Access Requests: The creation of a new account falls",0.0392156862745098,0.0,0.0392156862745098,0.0
+where can i report issues with payment,payment_issue,"To report issues related to payments, you should check your account settings where you can update your preferred payment method. If there is a billing dispute, please refer to the steps outlined under ""Authorization vs Capture"" for guidance.",0.1,0.0,0.05,0.0
+can you help me report troubles with payment?,payment_issue,"Sure, I can assist you with reporting issues related to your payments. Please let me know what kind of trouble you're experiencing so we can address it accordingly.",0.12903225806451613,0.0,0.06451612903225806,0.0
+can ya help me to send some feedback about a service,review,"Sure, I'd be happy to assist you in sending your feedback. Please let me know if there's anything specific you would like to include in your feedback, such as suggestions for improvement or any concerns you have regarding our services.",0.0,0.0,0.0,0.0
+show me in which situations can I ask for reimbursements,check_refund_policy,"The refund policy allows you to request reimbursement under certain circumstances. These include:
+
+1. **Defective Items**: If the product received is different from what was ordered due to manufacturing defects, you can request a refund or exchange based on your local store's return policy.
+
+2. **Incorrect Shipping**: If the item shipped did not match the description or specifications as per the purchase confirmation, you might be eligible for a refund or exchange depending on the store's return policy.
+
+3. **Warranty Issues**: If there are issues related to the warranty (e.g., non-repairable damage), you can",0.0396039603960396,0.020202020202020204,0.0396039603960396,0.0
+how to see ur allowed payment modalities,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfers for eligible regions. Gift cards and store credit can also be combined with one other payment method at checkout.",0.1111111111111111,0.058823529411764705,0.1111111111111111,0.0
+need help seeing the early exig fee,check_cancellation_fee,"The ""early exig fee"" you're referring to seems to be related to your subscription or billing setup. To see what fees apply to your current subscription, please check your account settings under the 'Subscription' section of your account dashboard. This should give you details about any additional costs associated with your subscription. If you need further assistance, feel free to reach out to our support team.",0.05714285714285715,0.0,0.028571428571428574,0.0
+I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}},track_refund,"To assist you with your request for a refund, please follow these steps:
+
+1. Verify the order identifier and purchase date: Ensure you have the correct order number and the date of purchase.
+2. Confirm the item condition and refund reason: Make sure the item is defective or unused, and confirm the reason for the refund (e.g., return due to defect).
+3. Check for prior refunds on the same order: Review any previous refunds to ensure they were processed correctly.
+4. Submit the refund and share the expected timeline: Follow the instructions provided earlier about submitting the refund and sharing the estimated time",0.01886792452830189,0.0,0.01886792452830189,0.0
+how to shop a few of ur article,place_order,"To help you find some articles, I would need more specific details about what type of product you're looking for (e.g., clothing, electronics, home goods). Could you please specify your interests? Once I have this information, I'll guide you through finding relevant products.",0.0,0.0,0.0,0.0
+I don't know what I have to do to remove my platinum account,delete_account,"To remove your Platinum account, you will need to follow these steps:
+
+1. Verify your identity by providing proof of your account (such as a credit card or bank statement) and confirming that the account belongs to you.
+2. Once verified, log into your account and navigate to the settings section where you can delete your account.
+3. Follow the prompts to complete the process of deleting your account. This typically involves entering a confirmation code sent to your email or phone number.
+4. After completing the deletion process, all personal data associated with your account will be removed from our system.
+
+Please note that",0.03738317757009346,0.0,0.03738317757009346,0.0
+need assistance changing the details on my profile,edit_account,"To assist you in changing your profile details, please follow these steps:
+
+1. Ensure you have verified your identity by following our account recovery process.
+2. Once verified, select ""Change Profile Details"" from the options available on your profile page.
+3. Fill out the new information according to the guidelines provided.
+4. After submitting the changes, we will review them and update your profile accordingly.
+
+Please note that this change can take up to 7 business days to complete due to the time required for processing. If there are any issues during the process, we will contact you directly.",0.019801980198019806,0.0,0.019801980198019806,0.0
+update details on gold account,edit_account,"To update your details on the Gold Account, please follow these steps:
+
+1. Verify your identity by providing proof of identification (such as a driver's license) and confirming you have the correct account number.
+2. Once verified, select ""Update Details"" from the options available on the account page.
+3. Follow the prompts to enter new information, including but not limited to name, email, phone number, and address.
+4. Review all changes and ensure they align with your preferences.
+5. Submit the updates and wait for confirmation.
+
+Please note that this process will require verifying your identity first.",0.019999999999999997,0.0,0.019999999999999997,0.0
+I am trying to see the status of order {{Order Number}},track_order,"To help you track your order, please provide the following details:
+
+1. Your order identifier (usually found at the top right corner of the invoice or confirmation email).
+2. Your registered email address.
+
+Once I have this information, I will be able to provide you with the tracking number and carrier link. This should give you real-time updates about the status of your order. Please note that it may take up to 24 hours for the tracking information to appear, but if there is no movement within one day, it might indicate a delay or issue.",0.04040404040404041,0.0,0.04040404040404041,0.0
+I want help cancelling my subscription to your newsletter,newsletter_subscription,"To assist you with cancelling your subscription to our newsletter, please follow these steps:
+
+1. Please verify your identity and confirm the email address associated with your account.
+2. Once confirmed, select either ""Cancel at period end"" or ""Immediate cancellation."" If you choose immediate cancellation, we will stop all future charges immediately. If you opt for ""Cancel at period end,"" we will continue providing access until the end of the current billing cycle.
+3. After selecting an option, proceed to complete the cancellation process. This typically involves logging into your account and following the prompts to finalize the cancellation.
+4.",0.0392156862745098,0.0,0.0196078431372549,0.0
+what do I need to do to order something?,place_order,"To place an order, you will need to confirm your payment method and proceed through the checkout process. Once you've completed this, we'll send you an email confirmation of your order details, including the order identifier and the registered email. This will help us track your order throughout the process.",0.07407407407407407,0.0,0.07407407407407407,0.0
+can you tell me at what time I can call customer assistance?,contact_customer_service,"The live chat and phone support operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in the customer's local business region.",0.06451612903225806,0.0,0.06451612903225806,0.0
+how can I purchase several of your article?,place_order,The SOP does not cover purchasing multiple articles. Please refer to our FAQ section for more information on bulk purchases.,0.0,0.0,0.0,0.0
+is it possible to get rebates of money?,get_refund,"No, the current refund policy does not include any rebates of money. The policy states that digital goods and subscription fees already consumed are non-refundable except where required by local consumer law.",0.05714285714285715,0.0,0.05714285714285715,0.0
+can you help me see what hours I can call customer support?,contact_customer_service,"Customer support operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region.",0.08,0.0,0.08,0.0
+I need assistance to enter another shipping address,set_up_shipping_address,"To proceed, please confirm the new shipping address you would like to use for your order. Once I receive this information, I will assist you in updating the shipping details accordingly. Please note that we may need to contact the carrier to ensure the change is reflected accurately.",0.07692307692307693,0.04,0.07692307692307693,0.0
+order status,track_order,"To determine the status of your order, please provide me with the following details:
+
+1. Your order identifier (if you have one)
+2. Your registered email address
+
+Once I have this information, I will be able to track your order and provide you with the most updated status. Please note that it may take up to 24 hours for the tracking information to become active.",0.059701492537313446,0.0,0.059701492537313446,0.0
+I do not know what to do to report an error with payment,payment_issue,"To resolve issues related to payments, please follow these steps:
+
+1. **Verify Identity**: Before discussing any payment records, ensure you have verified your identity. This step helps prevent unauthorized access to sensitive information.
+
+2. **Identify Issue Type**:
+   - If you're unsure about the type of issue, check if it's an **Authorization Hold**, a **Decline**, or a **Charge Problem**. 
+
+3. **For Declines**:
+   - Guide a safe retry. If the issue persists after following the advice, consider contacting your bank directly to address the billing discrepancy.
+
+4",0.04597701149425288,0.0,0.04597701149425288,0.0
+I want help restoring my user account PIN,recover_password,"The SOP provides guidance on resetting your password if you're having trouble logging into your account. However, there isn't specific information about how to restore a user account PIN. 
+
+To proceed, please follow these steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Follow the instructions to receive a reset email.
+3. Click on the reset link in the email and follow the prompts to create a new password.
+
+Please note that this process will require you to have access to your email address, which should be included in your account settings. If you don't know",0.01886792452830189,0.0,0.01886792452830189,0.0
+what do I need to do to check the shipment options?,delivery_options,"To check your shipment options, you will need to know the order identifier and the registered email associated with the order. Once you have this information, you can use the tracking number and carrier link provided to track the progress of your order. This should help you understand the status of your order and any potential issues that may arise during the shipping process.",0.030303030303030304,0.0,0.030303030303030304,0.0
+help me download the bill from {{Person Name}},get_invoice,"I'm sorry, but I don't have access to personal information such as names of customers. Please try contacting your financial institution directly for assistance with downloading your bill.",0.0,0.0,0.0,0.0
+I want assistance locating my invoices from {{Person Name}},check_invoice,"To assist you in locating your invoices from {{Person Name}}, please follow these steps:
+
+1. Locate the invoice by its unique identifier (usually found at the top of the document).
+2. Use the registered email associated with this account to find the invoice.
+3. Once located, use the tracking number and carrier link provided to track the progress of the shipment.
+
+Please note that the tracking process may take up to 24 hours to show the first scan after a label is created, so a label with no movement on day one is expected, not lost.
+
+Once the invoice is tracked, we will",0.019047619047619046,0.0,0.019047619047619046,0.0
+od ya deliver to {{Delivery Country}},delivery_options,"To determine when your order will be delivered to {{Delivery Country}}, please follow these steps:
+
+1. Locate your order by entering your order identifier and registered email into our system.
+2. Once you find your order, note down the tracking number and carrier link.
+3. Track the order through the carrier's website or app until you see the first scan indicating movement.
+4. Keep track of the progress and expect the order to move out of the ""In Transit"" state within 24 hours from the date of shipment.
+5. If the order remains in the ""In Transit"" state beyond this",0.019417475728155338,0.0,0.019417475728155338,0.0
+I want somebody,contact_human_agent,"To answer your question, I need more information from you. Could you please specify which ""somebody"" you're referring to? It could be someone who wants access to their personal data, has made a correction, wants to delete their account, or has opted out of marketing emails. Please provide additional context so I can assist you better.",0.0,0.0,0.0,0.0
+want help notifying of a trouble with payment,payment_issue,"To assist you with notifying about a potential issue with your payment, please follow these steps:
+
+1. **Verify Identity**: Before proceeding, ensure that you have verified your identity to avoid any unauthorized access to your account.
+
+2. **Identify Issue Type**:
+   - **Authorization Hold**: If there is an authorization hold, it means that the transaction has been temporarily blocked due to certain reasons such as insufficient funds or a mismatched billing address. This hold will resolve itself within 3-5 business days.
+   - **Decline**: If the payment was declined because of insufficient funds, an expired",0.042553191489361694,0.0,0.042553191489361694,0.0
+I want informatoin about the cancellation of my {{Account Type}} account,delete_account,"To assist you with your inquiry, I need more details:
+
+1. What type of account do you have? (e.g., Basic Account, Premium Account)
+2. Which service(s) are you trying to cancel?
+3. Are there any specific dates or times involved?
+
+Please provide this information so I can give you accurate guidance.",0.03636363636363636,0.0,0.03636363636363636,0.0
+wanna see my bill from {{Person Name}},check_invoice,"To fulfill your request, we will need to check if you have an active account with us. Please proceed by providing your name so we can verify your identity and then we'll be able to retrieve your billing information. Thank you for understanding.",0.04347826086956522,0.0,0.04347826086956522,0.0
+I am looking for information about a delivery address change,change_shipping_address,"The SOP provides guidance on how to handle exceptions such as changes in the delivery address. Here’s what you should do:
+
+1. **Confirm the Shipping Address**: Ensure that the new address is correct and verify if there was any mistake during the initial shipment process.
+   
+2. **Ask the Customer to Check Neighbors and Household Members**: This will help confirm whether the package was received at the original address or if it was moved elsewhere.
+
+3. **Allow 24 Hours for Carrier to Update Status**: Since the tracking system might not reflect the actual location of the package immediately upon arrival, give them",0.05714285714285715,0.019417475728155338,0.05714285714285715,0.0
+ohw do I check how soon can I expect the item?,delivery_period,"To check when you can expect your item, please look at the latest carrier scan and the warehouse dispatch status. If the parcel is still in transit but delayed, we will contact you with an update within 24-48 hours. If the parcel shows no movement for more than 5 business days, we will consider it potentially lost and offer a replacement shipment or a full refund. Please keep track of your tracking number and let us know if there are any issues.",0.0,0.0,0.0,0.0
+I want help speaking to customer service,contact_customer_service,"Hello! I'm here to assist you with your request. To get assistance from our customer service team, please use the live chat option. Our live chat support operates Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region. If you need further assistance, feel free to reach out via email or ticket support as well. Thank you for choosing us!",0.05555555555555555,0.028571428571428574,0.05555555555555555,0.0
+i want help talking with somebody,contact_human_agent,"The live chat option is available for you to talk with someone right now. If it takes longer than expected, please let us know so we can assist you accordingly.",0.0,0.0,0.0,0.0
+is it possible to obtain a damn restitution of my money?,get_refund,"Yes, if you have a valid issue with your purchase, such as receiving incorrect goods or defects, you can request a refund according to the refund policy. Please note that the refund process will depend on the specific circumstances of your case. If you need assistance, please contact our support team for further guidance.",0.03571428571428571,0.0,0.03571428571428571,0.0
+i dont know how i can notify of a trouble with payments,payment_issue,"To address your concern about payment issues, please follow these steps:
+
+1. **Verify Identity**: Before we discuss any payment records, ensure you have verified your identity. This step helps us avoid unauthorized access to sensitive information.
+
+2. **Identify Issue Type**:
+   - If you're experiencing a declined payment, proceed to Step 3.
+   - If you're dealing with an authorization hold, move to Step 4.
+   - If you need assistance with a charge problem, go to Step 5.
+
+3. **Guide Retry**:
+   - If the issue is a declined payment,",0.04597701149425288,0.023529411764705882,0.04597701149425288,0.0
+i need information about delivery periods,delivery_period,"The delivery period for your order will depend on where you live. Please check the shipping details of your order to determine the estimated delivery date. If there is any delay, we recommend checking the tracking number regularly until the order is delivered.",0.08888888888888888,0.046511627906976744,0.08888888888888888,0.0
+"I have got to check what shipment methods I have, help me",delivery_options,"Sure, I'd be happy to assist you. To start, could you please tell me your order identifier and the registered email associated with this order? This will help us track your shipment.",0.0,0.0,0.0,0.0
+help me to check when will my article arrive,delivery_period,"To help you with your inquiry about the expected arrival time of your item, please follow these steps:
+
+1. **Confirm Order Identifier**: Ensure you have the correct order number and the estimated delivery date from which you want to track the progress.
+
+2. **Check Latest Carrier Scan**: Look at the most recent carrier scan to see if there has been any movement since the estimated delivery date. This can often indicate whether the item is still in transit or if it might have arrived.
+
+3. **Warehouse Dispatch Status**: Sometimes, items can be dispatched before they reach the carrier, especially during busy periods. Check",0.03809523809523809,0.0,0.03809523809523809,0.0
+correct data on premium account,edit_account,"To correct your personal data on the premium account, please follow these steps:
+
+1. Verify your identity by providing proof of identification (such as a driver's license) and confirming you have the appropriate permissions to make changes to your account.
+2. Once verified, select ""Correct Data"" from the options available on the account page.
+3. Follow the prompts to update the incorrect information.
+4. Your corrections will be processed within the statutory timeframe after identity verification.
+
+Please note that this process should take place within the statutory period after identity verification. If you need assistance at any point during this process, feel",0.019047619047619046,0.0,0.019047619047619046,0.0
+i want help writing a comment about ur services,review,"Sure! Here’s a sample comment you can write:
+
+---
+
+Dear [Customer Name],
+
+Thank you for choosing our services. We value your trust and appreciate your feedback. Please let us know if there is anything we can improve upon. Your satisfaction is important to us!
+
+Best regards,
+
+[Your Company]
+
+---
+
+This comment aims to show appreciation for the customer's business while also encouraging them to provide further feedback if they have any suggestions. It follows the guidelines by expressing gratitude and asking for input without going into too much detail.",0.0,0.0,0.0,0.0
+how to change order {{Order Number}}?,change_order,"To change your order {{Order Number}}, please follow these steps:
+
+1. Log into your account and navigate to the ""My Orders"" section.
+2. Locate the order you wish to modify and click on its details.
+3. Click on the ""Edit Order"" option if applicable.
+4. If you need to make changes to the quantity, date, or address, proceed accordingly.
+5. Once all necessary modifications have been made, save the changes.
+
+Please note that this process might vary slightly depending on the specific platform or system you're using. Always refer to the relevant documentation or support resources for",0.039999999999999994,0.0,0.039999999999999994,0.0
+"I have to see the ETA of the order {{Order Number}}, how to do it?",track_order,"To find the estimated arrival time (ETA) of your order, you should:
+
+1. Locate the order by its identifier and the registered email.
+2. Use the tracking number and carrier link provided to track the order.
+3. Check the order states: Processing, Preparing to Ship, In Transit, Out for Delivery, Delivered, Exception.
+4. Wait up to 24 hours for the first scan from the carrier, which may indicate the order is moving but hasn't been scanned yet.
+5. If the order is still out for delivery, ask the customer to contact neighbors, household",0.04166666666666667,0.0,0.04166666666666667,0.0
+where do i download my goddamn invoices from {{Person Name}},get_invoice,"I'm sorry, but I don't see any option to download your invoices here. Could you please clarify if you're looking for invoice-related assistance?",0.06896551724137931,0.0,0.06896551724137931,0.0
+assistance receiving the company newsletter,newsletter_subscription,"The company newsletter is sent via email. You can subscribe to it by clicking on the ""Subscribe"" link on the website or following the instructions provided in the email you receive. Please note that the newsletter will only be sent out once per month.",0.04347826086956522,0.0,0.04347826086956522,0.0
+where doI send feedback about your company?,review,The SOP mentions that you can send feedback via email or ticket support.,0.0,0.0,0.0,0.0
+assistance seeing what shipment methods you offer,delivery_options,"The Shipping Methods section of our website offers various options such as standard shipping, express shipping, and international shipping. Please let me know if you need more details about any specific method.",0.058823529411764705,0.0,0.058823529411764705,0.0
+how do I create a {{Account Type}} account for my daughter?,create_account,"To help you create a {{Account Type}} account for your daughter, please follow these steps:
+
+1. Go to the website where you want to open an account.
+2. Click on the ""Sign Up"" button or enter your desired username and email address.
+3. Fill out the required fields such as name, date of birth, and other personal details.
+4. Choose the appropriate {{Account Type}} option from the dropdown menu.
+5. Set up your preferred payment method if applicable.
+6. Follow any additional prompts or instructions provided by the website.
+
+Remember to keep all personal information secure and avoid",0.039999999999999994,0.0,0.039999999999999994,0.0
+i do not know how i can see the cancellation charge,check_cancellation_fee,"The cancellation charge will appear as an additional fee on your account statement once you have canceled your subscription. Please check your account statements for this new charge. If you need assistance with viewing your account statements, please contact our support team.",0.13333333333333333,0.0,0.08888888888888889,0.0
+what do I have to do to see my compensation current status?,track_refund,"According to our SOP, you should be able to view your compensation status at any time by logging into your account directly from the website. If you're having trouble accessing it, please check your email for an automatic notification or contact us via live chat or phone for assistance.",0.0,0.0,0.0,0.0
+problems with cancelling order {{Order Number}},cancel_order,"I'm sorry, but I don't have enough information about your specific Order Number to assist you. Could you please provide me with more details?",0.07142857142857144,0.0,0.07142857142857144,0.0
+can ushow me the withdrawal penalties,check_cancellation_fee,"The withdrawal penalties can be found under the ""Account Takeovers"" section of our support portal. Please note that these details might vary slightly depending on your specific account type. If you need further assistance, please reach out to our support team at [support@example.com].",0.0,0.0,0.0,0.0
+how can I find bill #00108?,check_invoice,"To find Bill #00108, you should check your account statements or invoices for any transactions labeled as ""Bill #00108."" This might be found under the ""Transactions"" section of your account history. If you're unable to locate it there, you may need to contact your billing department directly for assistance.",0.07692307692307693,0.0,0.07692307692307693,0.0
+i do not know what i have to do to ask for a rebate of money,get_refund,"To request a refund or rebate, you should follow these steps:
+
+1. Identify the specific charge: Date, amount, and description.
+2. Determine if the charge was part of an order, subscription, tax, shipping, or a pre-authorization hold.
+3. Check if the charge is a genuine duplicate or a system error that will be released soon.
+
+Once you've identified the charge, contact your support team to discuss the issue. They can help you understand why the charge occurred and guide you through the process of requesting a refund or rebate.",0.021505376344086023,0.0,0.021505376344086023,0.0
+I want to check when my item is going to arrive,delivery_period,"To help you track your order, please provide the following details:
+
+1. Your order identifier (usually found at the top of the invoice or within the confirmation email).
+2. Your registered email address.
+
+With this information, we will be able to provide you with the tracking number and carrier link. Please note that it may take up to 24 hours for the tracking information to become active, but if there is no movement on the first day, it might indicate that the shipment was scanned too early. 
+
+Once we have these details, I'll assist you further in understanding the status of your order",0.0,0.0,0.0,0.0
+how do i shop some products,place_order,"The SOP does not cover how to shop for products. It only provides information about product returns. Please refer to the ""Return Methods"" section under #Product Return for more details on how to initiate a return process.",0.0,0.0,0.0,0.0
+get invoices from last purchase,get_invoice,"I'm sorry, but I don't have access to your account history or purchase details. Please check your account settings or contact support if you need assistance with retrieving past purchases.",0.0,0.0,0.0,0.0
+I have to check in which cases can I request a refund,check_refund_policy,"According to your refund policy, you can request a refund if the following conditions are met:
+
+1. The item was purchased or delivered more than 30 days ago (whichever is later).
+2. The item is either unused or defective.
+3. You refer to a valid order identifier.
+
+Please note that digital goods and subscription fees already consumed cannot be refunded.",0.06349206349206349,0.03278688524590164,0.06349206349206349,0.0
+I need assistance to notify of problems with a sign-up,registration_problems,"The SOP provides guidance on how to handle issues related to signing up, including resetting a password if needed. However, there isn't specific mention of notifying users about problems during the sign-up process. 
+
+To assist you further, could you please specify what kind of issue you're encountering? For example, was it due to a failed sign-up attempt, or did you receive an error message when trying to sign up? This will help me understand your situation better and provide more relevant advice.",0.022727272727272724,0.0,0.022727272727272724,0.0
+i ned help to talk to an operator,contact_human_agent,"To assist you, we offer live chat support which operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00. If you need assistance, please feel free to start a conversation via our live chat feature.",0.0,0.0,0.0,0.0
+want assistance to notify of an erro with payment,payment_issue,"To assist you with notifying of an error with your payment, please follow these steps:
+
+1. **Verify Identity**: Before discussing any payment records, we need to ensure that both parties involved have verified each other's identities. This helps prevent unauthorized access to sensitive information.
+
+2. **Identify Issue Type**: Determine whether the issue is related to an authorization hold, a declined transaction, or a genuine charge problem. Understanding the nature of the issue will help us address it appropriately.
+
+3. **Handle Declines**: If the issue is due to a declined transaction, advise the customer to check their card details",0.03960396039603961,0.0,0.03960396039603961,0.0
+is there an address to submit an opinion for ur company,review,"The SOP does not mention any specific way to submit an opinion about the company. It only mentions that if you have a critical issue like fraud or an account takeover, it should be reported immediately. For other types of feedback, you might want to contact customer service directly via email or live chat.",0.0,0.0,0.0,0.0
+there are problems setting another shipping address up,set_up_shipping_address,"The order you're referring to is currently in the ""Preparing to Ship"" state. It has been packed but hasn't yet been picked up by the carrier. 
+
+To proceed, please confirm the shipping address on your order. We recommend checking with neighbors, household members, and safe drop-off locations if necessary. Allow approximately 24 hours for the carrier to pick up the package. 
+
+If the package remains unclaimed within this timeframe, we will need to contact the carrier to investigate further. Please note that once the package is scanned, it cannot be moved again until the carrier picks it up.",0.05714285714285714,0.019417475728155338,0.05714285714285714,0.0
+I have to see the termination fee,check_cancellation_fee,The termination fee will be applied once your subscription ends. Please confirm if you wish to proceed with this step.,0.08695652173913045,0.0,0.08695652173913045,0.0
+I need help to download the invoice,get_invoice,The SOP does not mention anything about downloading invoices. Please check your email or contact support if you have any issues with receiving your invoice.,0.07407407407407407,0.0,0.07407407407407407,0.0
+assistance to check in what cases can I ask to be refunded,check_refund_policy,"According to the refund policy, you can request a refund if the product is damaged, faulty, or incorrect upon delivery. You can also request a refund if you decide to return the item without purchasing anything new.",0.1,0.05263157894736842,0.1,0.0
+how can I check the available payment modalities?,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfers for eligible regions. Gift cards and store credits can also be combined with another payment method during checkout.",0.11428571428571428,0.06060606060606061,0.11428571428571428,0.0
+want hepl regarding my signup,registration_problems,Hello! I'm here to help you with your signup process. Could you please tell me if you have any issues or questions?,0.0,0.0,0.0,0.0
+need to inform of problems with online payment,payment_issue,"We're sorry to hear that you've encountered issues with your online payment. Please know that we understand how frustrating these kinds of problems can be. We recommend checking your transaction details to ensure there was no error during the process. If you still have concerns, please let us know so we can assist further. Thank you for bringing this to our attention.",0.06060606060606061,0.0,0.030303030303030304,0.0
+i have got to see the status of my newsletter subvscription,newsletter_subscription,"The email or ticket support channels offer real-time updates for your newsletter subscription status. If you need assistance, please reach out via these methods.",0.14814814814814814,0.07999999999999999,0.14814814814814814,0.0
+need assistance to get my invoice #85632,get_invoice,"To assist you with your inquiry about invoice #85632, please follow these steps:
+
+1. Confirm the exact date of the invoice and the total amount.
+2. Check if there were any services or products included in the invoice.
+3. Review the invoice details to ensure all items have been received as expected.
+4. Contact our support team at [support email] or [support phone number] to report the discrepancy.
+
+Please note that we cannot access your personal data without explicit consent. We recommend providing us with your full name, address, and contact information so we can reach out directly",0.019999999999999997,0.0,0.019999999999999997,0.0
+"I want to send my feedback, I need assistance",review,"Hello! Thank you for reaching out to us. We're here to assist you with any questions or concerns you might have. Please feel free to share your thoughts or suggestions so we can improve our services further. If there's anything specific you'd like to discuss, please let me know.",0.0,0.0,0.0,0.0
+wanna swap some items of order {{Order Number}},change_order,"Hello! I'm sorry you're having trouble finding your desired items. We understand that sometimes things don't quite match up as expected. 
+
+To proceed with a size, color, or model swap, we need to first confirm if there is a stock availability for the new item. Once confirmed, we will place a hold on the replacement order and release it once the carrier scans the returned item. If this happens quickly, we might even do it right away for trusted accounts. Please note that there could be a slight price difference due to the different sizes/colors/models.
+
+Please let me know if you have",0.018348623853211007,0.0,0.018348623853211007,0.0
+where could i check order {{Order Number}} fucking curent status,track_order,"To find out the current status of your order, you should use the following steps:
+
+1. Locate the order by its identifier and the registered email.
+2. Use the tracking number and carrier link provided to track the order.
+3. Check if the order is currently in one of the following states: Processing, Preparing to Ship, In Transit, Out for Delivery, Delivered, or Exception (if applicable).
+
+Remember, orders that have clearly exceeded their delivery window will follow the shipping delays procedure. If you're unsure about the status, consider checking again within 24 hours since tracking updates may",0.039999999999999994,0.0,0.039999999999999994,0.0
+I have to list your goddamn available payment modalities,check_payment_methods,"The available payment modality options on our platform include credit card payments, PayPal, Apple Pay, Google Pay, and direct bank transfer. Please note that some of these methods might be subject to additional fees or restrictions depending on your location and the specific transaction details. If you need further assistance, please let me know.",0.07017543859649122,0.0,0.07017543859649122,0.0
+"I want to remove an item from order {{Order Number}}, I need hepl",change_order,"The process you're looking for involves removing an item from your order. Please follow these steps:
+
+1. **Verify Order**: Confirm the order number you have. This will help us locate the specific order you're referring to.
+
+2. **Select Return Method**: Since this is a removal request rather than a return, we'll use the ""Agent Steps"" section to guide you through the process.
+
+3. **Send Label and Instructions**: You'll need to send a return label and clear instructions for how to proceed.
+
+4. **Set Expectations**: We'll set expectations regarding the inspection and refund timeline",0.019999999999999997,0.0,0.019999999999999997,0.0
+i don want order {{Order Number}} I'd like to cancel it,cancel_order,"Hello! Thank you for reaching out. To assist you with your cancellation request, could you please confirm the following details:
+
+1. The Order Number: {{Order Number}}
+2. Which cancellation option would you prefer? Immediate cancellation, Pause, or Cancel at period end?
+3. If you choose an immediate cancellation, do you have any specific dates in mind?
+
+Once we have this information, we can proceed with the cancellation process. Please let me know how you would like to proceed.",0.05,0.0,0.05,0.0
+can you help me track order {{Order Number}}?,track_order,"Sure, I can assist you with that. Please provide your order number and the registered email associated with this order. This will enable us to find the correct tracking information for your order.",0.1142857142857143,0.0,0.1142857142857143,0.0
+want help to know if there is anything wrong with the refund,track_refund,"To determine if there might be any issues with your refund, please follow these steps:
+
+1. **Verify the Order Identifier**: Ensure you have the correct order identifier (e.g., order number) and the purchase date. This will help us confirm the validity of your refund request.
+
+2. **Confirm Item Condition**: Check if the item was used or defective. If it was used, ensure that the use did not exceed the allowed limits per the terms of sale.
+
+3. **Check for Prior Refunds**: Review your account history for any previous refunds related to this order. If you see multiple refunds",0.019801980198019806,0.0,0.019801980198019806,0.0
+help me check how long it takes for the parcel to arrive,delivery_period,"To help you with your inquiry about the estimated delivery time, please confirm the following details:
+
+1. The order identifier: This will allow us to locate the specific order in our system.
+2. The original estimated delivery date: We need this information to understand where we stand in relation to the expected timeline.
+
+Once I have these details, I'll proceed to check the latest carrier scan and the warehouse dispatch status to determine if there's any progress towards your delivery. Please note that due to the nature of shipping, there might be some variability in the actual delivery time based on factors such as traffic conditions,",0.01818181818181818,0.0,0.01818181818181818,0.0
+want helpmaking a consumer reclamation against ur company,complaint,"The severity level of your issue seems to be P4 - Low. This indicates that it is a routine question that can be answered with existing procedures. However, if you need assistance from a supervisor due to the complexity of the situation, please let us know. We will route this case to the appropriate department for further investigation.",0.0,0.0,0.0,0.0
+is it possible to place an order from {{Delivery City}} ?,delivery_options,"Yes, you can place an order from {{Delivery City}}. Please note that we do not track orders placed outside of our usual service area. If you need assistance placing an order in your specific location, please contact us directly at [contact number].",0.04545454545454545,0.0,0.04545454545454545,0.0
+get refund,get_refund,"To get a refund, please follow these steps:
+
+1. Verify your order identifier and purchase date.
+2. Confirm the item condition and the reason for the refund.
+3. Ensure there have been no previous refunds on this order to avoid duplicate processing.
+4. Submit the refund and share the expected timeline with us.
+5. Log the reason code for reporting.
+
+We aim to release the refund within 5-7 business days after approval. Please note that if you encounter any issues during the process, we will escalate the case to a supervisor.",0.042553191489361694,0.0,0.042553191489361694,0.0
+problems with swapping a product of purchase {{Order Number}},change_order,The issue you're facing seems to be related to exchanging products. Could you please provide more details about what specific problem you're encountering? This will help me understand your situation better and assist you accordingly.,0.0,0.0,0.0,0.0
+I don't know how I can talk to cstomer support,contact_customer_service,"To reach our customer support, you can use either live chat or email/ticket. For live chat, it typically takes less than two minutes to get your first response during regular working hours. If you prefer email or ticket support, expect an answer within one business day for most issues. Please note that critical issues like fraud or account takeovers will be handled more quickly but still might require up to three business days for complex cases. Remember, if you need assistance outside of normal working hours, you can access self-help resources such as the help center, order tracking, and password reset flows. Always ensure",0.01834862385321101,0.0,0.01834862385321101,0.0
+I need to see in which cases can I ask for reimbursements,check_refund_policy,"The SOP mentions two specific situations where you might be able to request a reimbursement:
+
+1. When there is a charge that you do not recognize (an amount you do not recognize).
+2. When there is a charge that is larger than expected.
+
+These are considered ""billing disputes"" under the SOP, and the focus of these disputes is to investigate the charge and determine if it should be refunded.",0.027777777777777776,0.0,0.027777777777777776,0.0
+I need help to notify of an error with payments,payment_issue,"To address your concern about errors with payments, please follow these steps:
+
+1. **Verify Identity**: Ensure you have access to the necessary details such as your name, address, and payment method. This will help us understand who the issue pertains to.
+
+2. **Identify Issue Type**: Determine if the issue is related to an authorization hold, a declined payment, or a charge problem. The first step would involve checking the status of your payment transaction.
+
+3. **Guide Safe Retry**: If the issue is due to a declined payment, advise the customer to check their card details and contact their",0.039999999999999994,0.0,0.039999999999999994,0.0
+how do I use the {{Account Category}} account?,switch_account,"To use the {{Account Category}} account, please follow these steps:
+
+1. Log into your account through the app or website.
+2. Navigate to the settings or preferences section of the account.
+3. Look for an option labeled ""{{Account Category}}"" or similar wording.
+4. Click on this option to open its settings page.
+5. Review the instructions or options provided there.
+6. If necessary, adjust the settings as per the guidelines given.
+
+Please note that the specific steps may vary depending on the {{Account Category}} you're referring to. If you have more details about the category,",0.020408163265306124,0.0,0.020408163265306124,0.0
+I do not know how to list your allowed payment methods,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can be combined with one other payment method at checkout.",0.11428571428571428,0.06060606060606061,0.11428571428571428,0.0
+I want to update my user profile,edit_account,"The SOP does not cover updating your user profile. Please refer to the ""Self-Service Flow"" section under the ""Password Reset"" topic for guidance.",0.0,0.0,0.0,0.0
+where to check at wnat time customer assistance available is,contact_customer_service,"The customer assistance is available from Monday to Friday between 08:00 and 20:00, and weekends between 10:00 and 18:00. The email and ticket support is available 24/7 and answered during staffed hours.",0.05,0.0,0.05,0.0
+would it be possible to speak to someone?,contact_human_agent,"Yes, you can reach out to us via live chat or phone for assistance. Our live chat operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region. If you prefer to call, our phone support operates during these same hours. Please note that we do not have an option for email or ticket support at this time.",0.0,0.0,0.0,0.0
+I need help to enter the secondaryshipping address,set_up_shipping_address,"The SOP provides guidance on how to handle different types of issues related to your account, but it doesn't specifically mention entering a secondary shipping address. Could you please clarify if you're trying to do something else? If so, could you let me know what exactly you're looking for?",0.07142857142857144,0.037037037037037035,0.07142857142857144,0.0
+I need assistance notifying of a problem with online payment,payment_issue,"To assist you with notifying about a problem with your online payment, please follow these steps:
+
+1. **Verify Identity**: Before discussing any payment records, ensure you have verified your identity to avoid unauthorized access.
+
+2. **Identify Issue Type**: Determine if the issue is related to an authorization hold, a declined transaction, or a genuine charge problem.
+
+3. **Handle Declines**: If the issue is due to a declined transaction, advise the customer to check their card details and contact their bank if the decline persists. Do not request sensitive information like card numbers or security codes.
+
+4. **Handle",0.04040404040404041,0.0,0.04040404040404041,0.0
+updating purchase {{Order Number}},change_order,"Hello,
+
+Thank you for reaching out. I'm here to assist you with your request to update the payment details for your Order Number {{Order Number}}.
+
+Could you please confirm which payment method you would like to use? We accept major credit and debit cards, common digital wallets, and bank transfers for eligible regions.
+
+Once we have your updated payment method, we will proceed with updating your order accordingly.
+
+Please let me know if there are any additional steps required from your end.
+
+Thank you,
+[Your Name]",0.02247191011235955,0.0,0.02247191011235955,0.0
+I have got to see in which situations can Irequest a refund,check_refund_policy,"According to the refund policy, you can request a refund under certain circumstances:
+
+1. If the product is damaged during shipment or if there was a mistake in the order,
+you can initiate a refund through your account settings.
+
+2. If you decide to cancel the purchase before receiving the item (change-of-mind return),
+the refund will be processed as soon as the carrier scans the returned item.
+
+3. If the product is faulty upon arrival, you can request a refund without having to return the item.
+
+Please note that these options apply only when the product has been received and inspected.",0.03773584905660377,0.019230769230769232,0.03773584905660377,0.0
+i dont know how to switch to the standard account,switch_account,"To switch to the standard account, follow these steps:
+
+1. **Verify Identity**: Ensure you have the correct email address associated with your account by verifying it against the registered email, the last order identifier, the billing postal code, or the last four digits of the payment method on file.
+
+2. **Lock Active Sessions**: Log out from all current accounts and ensure that there are no active sessions left behind.
+
+3. **Revise Long-Lived Tokens**: Revise any long-lived tokens that may be linked to the account.
+
+4. **Force Password Reset**: Prompt the user to change their password",0.04040404040404041,0.0,0.04040404040404041,0.0
+could I see the goddamn available payment methods?,check_payment_methods,"Yes, we accept major credit and debit cards, common digital wallets, and bank transfers for eligible regions. Gift cards and store credit can also be combined with one other payment method at checkout. Bank transfer is accepted for eligible regions.",0.09302325581395349,0.048780487804878044,0.09302325581395349,0.0
+where do I order some items?,place_order,The SOP does not specify how to place an order. It only mentions that you need to select the correct return method and fee treatment after verifying the order and reason for return.,0.1142857142857143,0.0,0.1142857142857143,0.0
+can you help me listing your allowed payment methods?,check_payment_methods,"Sure! The store accepts major credit and debit cards, common digital wallets, and bank transfers for eligible regions. Gift cards and store credits can also be combined with one other payment method at checkout.",0.10810810810810811,0.05714285714285715,0.10810810810810811,0.0
+what do I need to do to see bill #37777?,check_invoice,"To see Bill #37777, you will need to contact the carrier responsible for delivering this order. You should be able to find the carrier's name and phone number from your order details. Once you have the carrier's information, you can call them directly to inquire about the status of Bill #37777. Please note that the carrier may require proof of purchase (such as a receipt) to verify your identity and confirm that you own the order.",0.0,0.0,0.0,0.0
+I cannot subscribe to youir newsletter,newsletter_subscription,"It seems there might be a typo in your message. You're trying to unsubscribe from our newsletter, correct? Please ensure you've entered your email correctly and try again. Thank you!",0.058823529411764705,0.0,0.058823529411764705,0.0
+can you help me see the early exit penalties?,check_cancellation_fee,"The Early Exit Penalties section of our support system outlines specific conditions under which certain services can be terminated before their full term has expired. These include scenarios such as non-payment, violation of terms, or reaching a predetermined limit on usage. If you're experiencing issues related to these conditions, please reach out to our support team via chat or email at support@example.com. They will assist you in understanding your options and navigating through the process.",0.0,0.0,0.0,0.0
+update info on pro account,edit_account,"To update your information on the Pro account, please follow these steps:
+
+1. Verify your identity by providing proof of identification (such as a driver's license) and confirming your email address.
+2. Once you have verified your identity, go to the ""My Account"" section of the website/app where you can view and edit your profile information.
+3. Click on the ""Edit Profile"" button.
+4. Update your desired information in the fields provided.
+5. Save your changes.
+
+Please note that this process will require you to log in to your account first. If you're unable to log in",0.0392156862745098,0.0,0.0392156862745098,0.0
+how can I see if there is anything new on my compensation?,track_refund,The SOP does not mention how to check for updates on compensation.,0.0,0.0,0.0,0.0
+can you help me seeing when my article is going to arrive?,delivery_period,"I'm sorry, but I don't see your order details yet. Please check the latest carrier scan and the warehouse dispatch status. If the parcel is in transit but late, we will contact you with an update within 24-48 hours. If the parcel shows no movement for more than 5 business days, we will consider it potentially lost and offer a replacement shipment or a full refund.",0.0,0.0,0.0,0.0
+how can i list the allowedd payment options,check_payment_methods,"The allowed payment options include credit/debit cards, PayPal, and direct bank transfer.",0.125,0.0,0.125,0.0
+problem with {{Account Type}} account removals,delete_account,"Hello! I'm here to help you troubleshoot your issue. Please provide me with more details about what you're experiencing:
+
+1. What specific problem are you encountering?
+2. When did this happen? Was it just today, or have you experienced it before?
+3. Can you reproduce the issue consistently?
+
+Once I understand the situation better, I'll be able to assist you further. Thank you for your patience.",0.0,0.0,0.0,0.0
+want help leaving a coment for ur products,review,"Sure! You can leave a comment about your experience with our product(s) here. Please note that we do not have access to specific comments you might want to share. If you'd like to discuss something related to our products, feel free to let us know how we can assist further.",0.0,0.0,0.0,0.0
+what do I have to do to see the early exit fee?,check_cancellation_fee,The early exit fee is not applicable for your product/service. Please check the terms and conditions section of our website for more details.,0.14814814814814814,0.0,0.07407407407407407,0.0
+I do not know how I could check the ETA of purchase {{Order Number}},track_order,"To check the Estimated Time of Arrival (ETA) for your order, you should first confirm the Order Identifier and the Original Estimated Delivery Date from which you received this message. Next, go to the carrier's website or app where you placed the order and look for the most recent carrier scan. This will show you the current status of your package. If the package is still in transit but delayed, you should contact the carrier directly through their support system to inquire about the expected arrival time. Keep in mind that carrier scans can sometimes be inaccurate due to delays or other factors, so if the package hasn't",0.01785714285714286,0.0,0.01785714285714286,0.0
+I need help to notiyf of a registration problem,registration_problems,"The issue you're experiencing seems to be related to your account being locked due to suspicious activity. Please try logging out of your account and then trying to log back in again. This should resolve the issue. If you continue to experience problems, please contact our support team via the 'Contact Us' button located on the bottom right corner of the website.",0.03076923076923077,0.0,0.03076923076923077,0.0
+i want help acquiring an article,place_order,"To assist you in acquiring your desired item, please provide me with the following details:
+
+1. Your order identifier (if known)
+2. Your registered email
+3. The product name or description of what you're looking for
+
+Once I have this information, I will be able to track your order and guide you through any necessary steps to receive your item.",0.031746031746031744,0.0,0.031746031746031744,0.0
+cancel {{Account Category}} acount,delete_account,Hello! I'm here to help you with your account cancellation request. Could you please specify what type of account category you're referring to? This will allow me to assist you better.,0.05714285714285715,0.0,0.05714285714285715,0.0
+I have got to file a complaint against your company,complaint,"To file a complaint, please visit our help center for self-service options. If you prefer to speak with someone, we offer live chat and phone support during normal working hours. Please note that after-hours support is only available via email or ticket.",0.044444444444444446,0.0,0.044444444444444446,0.0
+refunding {{Refund Amount}}  dollars,get_refund,"To proceed with the refund, please follow these steps:
+
+1. Verify your order identifier and the purchase date.
+2. Ensure you have proof of the defective nature of the item.
+3. Confirm if there were any previous refunds on this order to avoid duplicate processing.
+4. Once confirmed, submit the refund through our system and we will notify you of the expected release time.
+
+Please note that the actual release date might vary based on the current status of the transaction and the bank's processing times. We aim to release the funds within 5-7 business days from the date of approval. Please keep",0.01869158878504673,0.0,0.01869158878504673,0.0
+I need assistance to restore the password of my profile,recover_password,"Hello! I'm here to help you restore your password. Please follow these steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Check your email inbox for the reset email. Make sure to allow emails from the same domain as your account.
+3. Click on the reset link and follow the instructions to create a new password.
+
+Please ensure you're using the correct email address when resetting your password. If you have any issues, feel free to reach out to our support team.",0.021978021978021976,0.0,0.021978021978021976,0.0
+can ya help me to modify the delivery address,change_shipping_address,"Sure, I can assist you with modifying the delivery address. Please provide your order ID and the new address details, including the city, state, and ZIP code. Once we have this information, we will proceed to correct the address on your behalf.",0.044444444444444446,0.0,0.044444444444444446,0.0
+"I paid {{Currency Symbol}}{{Refund Amount}} for these articles, I have to obtain a rebate",get_refund,"To assist you, please provide me with the following details:
+
+1. The currency symbol (e.g., $, €).
+2. The total refund amount you would like to receive.
+
+Once I have this information, I can help you understand how to proceed with obtaining your desired rebate.",0.04347826086956522,0.0,0.04347826086956522,0.0
+how to download the bills from {{Person Name}}?,get_invoice,"Unfortunately, there doesn't seem to be a direct way to download bills from {{Person Name}} based on the information provided. The current system does not offer the ability to view or download past invoices or statements. If you need access to your bill history, please check with the customer service team who may have additional options or resources available.",0.03225806451612903,0.0,0.03225806451612903,0.0
+modifying info on platinum account,edit_account,"The SOP provides clear guidelines for modifying information on a Platinum account. According to the core principles, you should always update accurate information through the verified-change workflow. This process involves verifying your identity first, then updating the information according to the specified changes. Please follow these steps carefully to ensure accuracy and compliance with our policies.",0.033898305084745756,0.0,0.033898305084745756,0.0
+want help making an customer claim against your business,complaint,"To make a customer claim against our business, you should follow these steps:
+
+1. **Identify the Charge**: Clearly state the date, amount, and description of the charge. This will be crucial for tracing back to the correct transaction.
+
+2. **Match the Charge**: Determine if the charge relates to an order, subscription renewal, tax/shipping component, or a pre-authorization hold. Understanding where the charge fits into the overall transaction can help in resolving it correctly.
+
+3. **Distinguish Between Duplicate Charges and Pending Authorizations**: A true duplicate can often be resolved without further action since it",0.0,0.0,0.0,0.0
+what do i have todo to find invoice #37777,check_invoice,"To find Invoice #37777, you can follow these steps:
+
+1. Go to your account dashboard.
+2. Click on ""My Invoices"" or ""Invoices.""
+3. Look for Invoice #37777 in the list of invoices.
+4. If it's not there, check if there were any updates or changes made to your account during the last few months.
+5. If still not found, contact our support team at [support email] or [support phone number] to inquire about the status of Invoice #37777.",0.04938271604938272,0.0,0.04938271604938272,0.0
+I want to check at what time customer support available is,contact_customer_service,"Customer support is available from Monday to Friday between 08:00 and 20:00, and weekends between 10:00 and 18:00, in the customer's local business region.",0.0625,0.0,0.0625,0.0
+can you help me seeing when my product is going to arrive?,delivery_period,"I'm sorry, but I don't see your order details yet. Please check your email or the app where you placed your order for the estimated delivery time. If you're still waiting for this information, please let me know, and I'll assist you further.",0.04081632653061224,0.0,0.04081632653061224,0.0
+deleting pro account,delete_account,"To delete your Pro account, please follow these steps:
+
+1. Verify your identity by providing proof of your account (e.g., email, phone number) and confirming you are the owner of the account.
+2. Once verified, proceed to the privacy workflow to initiate the deletion process.
+3. The deletion will take place within the statutory window after identity verification.
+4. Please note that this action cannot be undone once completed.",0.05555555555555556,0.0,0.05555555555555556,0.0
+i want assistance listing the payment methods,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can be combined with one other payment method at checkout.",0.11428571428571428,0.06060606060606061,0.11428571428571428,0.0
+edit details on {{Account Category}} account,edit_account,"The user wants to edit their account category. Please note that this request seems out of context within the scope of the given SOP, which primarily deals with technical troubleshooting issues such as app crashes, login failures, and performance problems. The SOP does not cover account management operations like changing an account category. 
+
+Given the nature of the user's request, I would suggest providing guidance on how to change an account category through the appropriate channels, such as contacting support via email or phone. However, since the SOP doesn't address this specific topic, I cannot fulfill the user's request directly.",0.03809523809523809,0.0,0.03809523809523809,0.0
+I do not know how to request a refund of my money,get_refund,"To request a refund according to our refund policy:
+
+1. Verify your order identifier and the purchase date.
+2. Ensure you have proof of purchase (e.g., receipt).
+3. Contact us via email at support@example.com with your order number and details about why you want a refund.
+4. We will review your request and process it accordingly.
+
+Please note that we cannot guarantee a specific time frame for processing your refund due to various factors such as external delays from banks or other parties involved in the transaction.",0.02173913043478261,0.0,0.02173913043478261,0.0
+need to write a review about ur company how can i do it,review,"To write a review about your company, you should start by identifying the specific aspects of their services or products that you want to highlight. This could include anything from their customer service, product quality, pricing, delivery time, etc. Once you have identified these points, you can begin writing your review.
+
+Here’s a general structure you might consider:
+
+1. Introduction: Start off by introducing yourself and why you're reviewing this company.
+2. Positive Aspects: Discuss what you like about the company. Highlight any features or benefits they offer.
+3. Negative Aspects: If there are any issues or",0.02,0.0,0.02,0.001862200305035591
+"I cannot create a user, help to inform of a signup problem",registration_problems,"It seems you're experiencing issues when trying to sign up. Could you please double-check your email address? It should be correct and verified. If you've recently signed up, try waiting a bit as sometimes emails take some time to deliver. If this doesn't resolve the issue, we might need to investigate further to ensure everything is set up correctly. Please let us know if you have any other questions or concerns.",0.0,0.0,0.0,0.0
+"my goddamn delivery address has changed, change it",change_shipping_address,"I'm sorry to hear that your delivery address has changed. Please confirm the new address you would like us to use for your order. Once we receive this information, we will proceed with updating your order accordingly. Thank you for letting us know about the change in your address.",0.07547169811320754,0.0,0.07547169811320754,0.0
+I want assistance to take a quick look at bill #85632,check_invoice,"Sure, I can help you review your bill #85632. Please note that we cannot access your personal data directly, but we can assist you in understanding the details of the charges. Could you please tell me if there was any unexpected charge or if you have noticed anything unusual?",0.0,0.0,0.0,0.0
+help me see your allowed payment options,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can be combined with one other payment method at checkout.",0.11428571428571428,0.06060606060606061,0.11428571428571428,0.0
+I don't know how to leave some feedback,review,"To leave feedback, you need to first understand what type of feedback you want to give (e.g., product quality, service, etc.). Once you have this understanding, you can proceed to leave your feedback through the appropriate channels as per the company's guidelines. If you're unsure about which channel to use, please refer to the ""Return Methods"" section of the SOP, which outlines different ways to return items including leaving feedback.",0.0,0.0,0.0,0.0
+I have a problem entering the secindary shipping address,set_up_shipping_address,"Thank you for reaching out. To proceed, could you please confirm if there was any error during the address entry process? If so, did you receive any feedback from the carrier regarding this issue? Please let me know your thoughts on how we should move forward.",0.04,0.0,0.04,0.0
+need to make a consumer reclamation against ur organization,complaint,"The SOP provides clear guidelines on handling data subject requests, including access, correction, deletion, and marketing preferences. However, there is no mention of making a ""consumer reclamation"" against your organization. 
+
+To proceed, you would need to follow these steps:
+
+1. Verify identity.
+2. Identify the specific right being exercised (e.g., access, correction).
+3. Log the request and route it to the appropriate workflow.
+4. Confirm the action and timeline in writing.
+
+Please note that this process should comply with all relevant laws and regulations regarding data protection and privacy.",0.0,0.0,0.0,0.0
+need help to set up my secondary delivery address,set_up_shipping_address,"To set up your secondary delivery address, please follow these steps:
+
+1. Log into your account where you placed the order.
+2. Go to the ""My Account"" section.
+3. Click on ""Delivery Address"".
+4. Follow the prompts to enter your new address details.
+5. Save the changes.
+
+Once you've completed this process, we will notify you when your package arrives at your new address. Please note that if there are any issues with the delivery (such as the package being held), we will inform you accordingly.",0.06593406593406594,0.02247191011235955,0.06593406593406594,0.0
+I need assistance to send my feedback for your company,review,The severity level of this issue is P4 - Low. The appropriate action would be to route it to the relevant specialist team. Please proceed to the relevant specialist team and let them know you have feedback. They should respond within 24 hours.,0.0,0.0,0.0,0.0
+i  have lost my account access key where can i recover it,recover_password,"When you lose your account access key, follow these steps:
+
+1. **Verify Identity**: Before proceeding, ensure that you have verified your identity by checking the registered email, the last order identifier, the billing postal code, or the last four digits of the payment method on file. This is crucial because we need to be sure that you are who you claim to be.
+
+2. **Lock Active Sessions and Revocation Tokens**: Once you've verified your identity, lock all active sessions and revoke any long-lived tokens associated with your account. This prevents anyone else from accessing your account until you're ready to",0.0,0.0,0.0,0.0
+where could i update the adress,change_shipping_address,"The address you're trying to update should be your email address associated with your account. You can find this by going to the ""Forgot password"" link on the sign-in page. Please ensure that the email address is correct and that you have permission to update it.",0.0392156862745098,0.0,0.0392156862745098,0.0
+error with sign-up,registration_problems,"It seems there was an issue with your sign-up process. Please try signing up again by clicking on the ""Sign Up"" button on our website. If you continue to experience issues, please contact us via the support form on our site. We appreciate your patience and cooperation.",0.0,0.0,0.0,0.0
+have a questiin about the removal of a {{Account Type}} account,delete_account,"To assist you with your inquiry, please provide me with more details:
+
+1. What type of account do you want to remove?
+2. Are there any specific reasons why you're requesting this removal? (e.g., account suspension, cancellation)
+3. Do you have any questions regarding the process or the steps involved?
+
+Once I have these details, I will be able to guide you through the appropriate procedure.",0.028571428571428574,0.0,0.028571428571428574,0.0
+remove premium account,delete_account,"The user would like to remove their premium account. According to the SOP, this can be done through the following steps:
+
+1. Verify identity and locate the active subscription.
+2. Confirm which option the customer wants (e.g., immediate cancellation).
+3. Process the change and disable auto-renewal if requested.
+4. Send written confirmation including the last day of access and whether any refund applies.
+5. Log the cancellation reason.
+
+Please note that the specific details about how to proceed with each step will depend on your system's capabilities and the particular features of the service you're working with.",0.019417475728155338,0.0,0.019417475728155338,0.0
+I have got to get my bill from {{Person Name}},get_invoice,"To obtain your bill, please check your account details under ""Account Settings"" in the store's website or app. If you need assistance, feel free to reach out to our support team via chat or email.",0.0,0.0,0.0,0.0
+I need help to inform of errors with online payment,payment_issue,Thank you for reaching out. I'm here to assist you with your inquiry. Please describe the issues you're facing so we can better understand what needs to be done next.,0.058823529411764705,0.0,0.058823529411764705,0.0
+help touse the {{Account Category}} profile,switch_account,"To help you use the {{Account Category}} profile, please follow these steps:
+
+1. Log into your account on the website or mobile application.
+2. Go to the settings or preferences section of your account.
+3. Look for an option labeled ""Profile"" or ""Settings.""
+4. Click on this option to open the profile settings page.
+5. On the profile settings page, look for an option labeled ""{{Account Category}}"" or something similar.
+6. Click on this option to view the details about the {{Account Category}} profile.
+7. If necessary, click on the link or button",0.02105263157894737,0.0,0.02105263157894737,0.0
+i want assistance downloading the bills from {{Person Name}},get_invoice,"I'm sorry, but I don't have access to personal information such as names of customers. Please try contacting your financial institution directly for assistance with downloading your bills.",0.0,0.0,0.0,0.0
+I want to update my address,change_shipping_address,"The process you're looking for involves updating your email address. Please go to the ""My Account"" section of our website, click on ""Edit Profile,"" and then select ""Change Email Address."" Make sure to enter your new email address correctly and save the changes.",0.08510638297872342,0.0,0.08510638297872342,0.0
+I don't know what I have to do to download my invoice #12588,get_invoice,"To download your invoice #12588, please follow these steps:
+
+1. Go to the ""My Account"" section of our website.
+2. Click on the ""Invoices"" tab.
+3. Locate Invoice #12588 in the list of invoices.
+4. Click on the ""Download"" button next to the invoice number.
+5. Save the file to your computer.
+
+Please note that if you encounter any issues during the process, feel free to contact our support team at [support email] for assistance.",0.025974025974025976,0.0,0.025974025974025976,0.0
+i do not know whzt to do to inform of a problem with payment,payment_issue,"It seems you're experiencing issues with your payment. The store accepts major credit and debit cards, common digital wallets, and bank transfers for eligible regions. Gift cards and store credits can be combined with one other payment method at checkout. Cash on delivery is not offered for online orders.
+
+To resolve the issue, please check your payment details and try updating them in account settings. If the problem persists, we recommend contacting your bank directly to address the issue.",0.04878048780487806,0.0,0.04878048780487806,0.0
+"I would like to shop some of your product, how to do it?",place_order,"To start shopping with us, please visit our website and select the products you're interested in. Once you've made your selection, proceed to checkout. You'll need to enter your payment details and complete the purchase process. If you have any questions about the products or the purchasing process, feel free to reach out to our support team.",0.0,0.0,0.0,0.0
+I need help making a complaint,complaint,"To make a complaint, you can contact us via email or ticket support. Our response targets for these channels are as follows:
+
+- **Email/Ticket**: First reply within one business day; complex cases within three business days with interim updates.
+
+Please note that we do not have live chat support at this time. If your issue requires immediate attention, please consider reaching out during our staffed hours (Monday to Friday, 08:00–20:00).",0.027027027027027025,0.0,0.027027027027027025,0.0
+"I am waiting for a compensation of {{Currency Symbol}}{{Refund Amount}}, was it processed",track_refund,"To check if your refund has been processed, please follow these steps:
+
+1. Verify the order identifier and purchase date.
+2. Confirm the item condition and refund reason.
+3. Check for any previous refunds on the same order to ensure you're not being charged twice.
+4. Submit the refund and share the expected timeline above.
+5. Log the reason code for reporting.
+
+Please note that the total time frame could vary based on various factors such as bank processing times, etc., but generally, the process should take around 12 business days from the moment the refund is submitted.",0.019801980198019806,0.0,0.019801980198019806,0.0
+I don't know how to contact a person,contact_human_agent,"The best way to reach out to someone is by sending them an email. You can find your email address on the sign-in page of the service you're trying to contact. Make sure to include all relevant details such as your name, the subject of your message, and any additional information that might be helpful.",0.03333333333333333,0.0,0.03333333333333333,0.0
+i have to look for the bill from ten months ago,check_invoice,"To find your bill from ten months ago, you would need to go through the following steps:
+
+1. Go to the billing page of your account.
+2. Click on ""View Bills"" or ""My Bills.""
+3. Select the time range option to view bills from multiple years back.
+4. Choose the specific month and year you want to see.
+5. Review the bill details.
+
+Please note that the process may vary slightly depending on the platform or software used to manage your accounts.",0.0,0.0,0.0,0.0
+want help to see the withdrawal charges,check_cancellation_fee,"I'm sorry, but I don't have access to your account details or transaction history. You will need to check your account settings or contact customer support directly to view these details.",0.05555555555555555,0.0,0.05555555555555555,0.0
+i call to check when my parcel is gonna arive,delivery_period,"Hello! I'm here to help you track your package. To get started, could you please tell me your order identifier and the registered email associated with this order? This will help us find the correct information about your shipment. Once we have these details, I'll be able to provide you with the tracking number and carrier link, which should give you an idea of where your package is at any given moment. Please let me know if you need further assistance.",0.0,0.0,0.0,0.0
+download bill from {{Person Name}},get_invoice,"I'm sorry, but I don't have access to personal information such as names of customers. Please try contacting your bank directly for assistance with downloading your bill.",0.0,0.0,0.0,0.0
+will you transfer to me somebody?,contact_human_agent,"The SOP does not mention anything about transferring data to someone else. It only covers access, correction, deletion, and marketing preferences. Therefore, I cannot fulfill this request.",0.0,0.0,0.0,0.0
+I don't know what I need to do to cancel the premium account,delete_account,"To cancel your premium account, you have several options:
+
+1. **Cancel at Period End**: This will continue accessing the service until the payment period ends without additional charges.
+   
+2. **Immediate Cancellation**: This will stop all access immediately, but you can still receive a partial refund based on how long you were subscribed.
+
+3. **Pause**: If you choose this option, the billing will suspend for a selected duration, and then resume automatically unless canceled again.
+
+Please note that each option has its own implications regarding refunds and future access. The best choice depends on your specific needs and preferences.",0.019999999999999997,0.0,0.019999999999999997,0.0
+can you direct to me a person?,contact_human_agent,"I'm sorry, but I am unable to assist with that request.",0.0,0.0,0.0,0.0
+i dont know how i can unsubscribe from ur company newsletter,newsletter_subscription,"The process you're looking for involves unsubscribing from the company's newsletter. This typically requires going through your account settings or preferences within the email service provider. 
+
+To do this:
+
+1. Go to your email account settings.
+2. Look for an option related to newsletters or subscriptions.
+3. Unsubscribe from the specific newsletter(s) you wish to stop receiving.
+
+Please note that different email providers have slightly different interfaces, so you might need to refer to their help documentation for more detailed instructions. If you encounter difficulties, consider reaching out to their support team for assistance.",0.04040404040404041,0.0,0.04040404040404041,0.0
+I need to swap an item of purchase {{Order Number}},change_order,"To proceed with the size, color, or model swap, we will first confirm your order details. Please provide me with the Order Number you received when placing the initial order. Once I have this information, we can initiate the process.",0.047619047619047616,0.0,0.047619047619047616,0.0
+editing {{Account Category}} account,edit_account,"The user is asking about editing an account category. However, there seems to be a typo in the message - instead of ""Account Category"", it should probably read ""Account"". 
+
+To clarify, if you're trying to edit your account settings or categories within a certain application or service, please ensure you've followed the correct procedure:
+
+1. Check the documentation or help section for instructions on how to change your account category.
+2. If you're unsure where to find this information, try searching online for ""how to change my account category"" along with the name of the specific application or service.
+3",0.038461538461538464,0.0,0.038461538461538464,0.0
+how can I cancel the {{Account Category}} account?,delete_account,"To cancel your {{Account Category}} account, you have several options:
+
+1. **Cancel at Period End**: Access will continue until the paid period expires without additional charges occurring.
+2. **Immediate Cancellation**: Access will end immediately, but eligible unused time may be refunded based on the plan terms or local laws requiring refunds.
+3. **Pause**: Billing will suspend for a chosen interval and resume automatically unless cancelled.
+
+Please choose an option that best suits your needs. If you prefer immediate cancellation, ensure that you confirm the effective date before proceeding.",0.022222222222222223,0.0,0.022222222222222223,0.0
+i dont know what i have to do to speak to an assistant,contact_human_agent,"The issue you're experiencing seems to be related to speaking to an assistant. To proceed, please follow these steps:
+
+1. Verify your identity: Ensure that you are logged into your account and that you can access all features of the system.
+2. Check if there was any interaction between you and the system: Review your conversation history to see if you had a direct exchange with an assistant.
+3. If you did not receive assistance, it could be due to several reasons such as the system being busy, a temporary glitch, or a specific feature requiring additional permissions.
+4. Contact support: Reach out",0.018691588785046728,0.0,0.018691588785046728,0.0
+i have a tyrouble modifying my address,change_shipping_address,"I'm sorry to hear you're having trouble updating your email address. Could you please double-check the spelling of your email address? It should be exactly as written here: [email@example.com]. Also, ensure there aren't any special characters or numbers missing from the address. If this doesn't resolve the issue, we may need to contact our support team to further investigate. Please let me know if you need help with anything else.",0.025,0.0,0.025,0.0
+"I lost my invoice from {{Person Name}}, find it for me",check_invoice,We're sorry to hear that you're having trouble finding your invoice. Please allow us some time to locate it for you. We'll get back to you as soon as we have it. Thank you for understanding.,0.048780487804878044,0.0,0.048780487804878044,0.0
+tell me more about updating the delivery address,change_shipping_address,"To update the delivery address, please follow these steps:
+
+1. Check if the shipping address on your order matches the one you're trying to change. You can usually find this information on the order confirmation page.
+   
+2. Contact the carrier directly through their app or website. This will help you get assistance from them.
+
+3. Follow the instructions they provide to correct the address. They may ask for additional verification details such as your name, phone number, or even a signature.
+
+4. Once the address is updated, let us know the new address via the tracking system we've set up. We",0.05660377358490566,0.019230769230769232,0.03773584905660377,0.0
+can you help me obtaining refunds?,get_refund,"Sure, I'd be happy to assist you with your refund requests. Please follow these steps:
+
+1. **Verify Order Identifier**: Ensure you have the correct order identifier and the purchase date. This will help us confirm eligibility for a refund.
+
+2. **Confirm Item Condition**: Make sure the item is either unused or defective. The description should clearly indicate if it needs to be returned due to defects.
+
+3. **Check for Prior Refunds**: Review any previous refunds on this order to ensure we're not processing a duplicate charge.
+
+4. **Submit the Refund Request**: Once you've confirmed all",0.019999999999999997,0.0,0.019999999999999997,0.0
+i expect a damn restitution of {{Currency Symbol}}{{Refund Amount}},track_refund,"To ensure you receive your refund as per your expectation, please follow these steps:
+
+1. **Return the Item**: Please send us the item via the preferred method (prepaid return label if applicable) within the 30-day return window. Ensure the item is in its original condition and packaged properly.
+
+2. **Verify Your Order**: Once we receive the item, our team will inspect it to confirm its condition. This process usually takes approximately 2 business days after receiving the item back to our facility.
+
+3. **Receive Refund**: After the inspection, we will finalize the refund according to",0.020408163265306124,0.0,0.020408163265306124,0.0
+i do not know what to do to switch to the {{Account Type}} account,switch_account,"To switch to the {{Account Type}} account, please follow these steps:
+
+1. Log into your current account.
+2. Go to the settings or preferences section of your account.
+3. Look for an option labeled ""Switch Accounts"" or something similar.
+4. Click on this option to switch to the {{Account Type}} account.
+
+Please note that the specific steps may vary depending on the type of account you're trying to switch to and the platform you're using. If you encounter any difficulties during this process, feel free to reach out to our support team for further assistance.",0.04040404040404041,0.020618556701030924,0.04040404040404041,0.0
+retrieve my user password,recover_password,"Hello! To help you retrieve your password, please follow these steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Click on the ""Send me a password reset link"" option.
+3. Check your inbox for the reset email. Make sure to read any emails from your email service provider as they might be marked as spam.
+4. Follow the instructions in the email to reset your password.
+
+Please note that this process will only work if you have a valid email address associated with your account. If you're unable to find the reset email or if you've",0.019047619047619046,0.0,0.019047619047619046,0.0
+need assistance seeing the payment methods,check_payment_methods,"To see your payment methods, please check your account settings under ""My Account"" section. If you have trouble accessing these options, feel free to reach out to our support team via chat or email.",0.1621621621621622,0.05714285714285715,0.10810810810810811,0.0
+I don't know what I need to do to speak to customer service,contact_customer_service,"To reach out to our customer service, you can use either live chat or email/ticket support. If you prefer to contact us via live chat, please note that we aim to respond within two minutes for your initial message during regular working hours (Monday to Friday from 8 AM to 6 PM). For email or ticket support, expect a response within one business day, though more complex cases might take up to three business days with updates along the way. Remember, if you encounter any critical issues such as fraud, account takeover, or significant system downtime, these will be addressed promptly even outside normal",0.05555555555555556,0.01886792452830189,0.037037037037037035,0.0
+I want a {{Account Type}} account,create_account,"To assist you with your request for a {{Account Type}} account, please note that we currently only support standard accounts. For any special requirements or types of accounts, please contact our support team directly. They will be able to provide more tailored assistance based on your specific needs.",0.039999999999999994,0.0,0.039999999999999994,0.0
+i try ot order a few of ur item,place_order,"Hello! I'm here to help you place your order. Could you please provide me with the details such as the product(s) you want to purchase, your preferred shipping address, and any special instructions? Once I have this information, I'll be able to assist you further. Thank you!",0.07692307692307693,0.0,0.07692307692307693,0.0
+assistance to submit a different shipping address,set_up_shipping_address,"To assist you in submitting a different shipping address, please follow these steps:
+
+1. Locate your order by providing the order identifier and the registered email.
+2. Obtain the tracking number and carrier link from the previous response.
+3. Contact the carrier directly through the carrier's website or app, or via phone if necessary.
+4. Follow the instructions provided by the carrier to change the shipping address.
+5. Once the new address is set, track the shipment again until it reaches the destination.
+
+Please note that this process may vary depending on the specific carrier involved. Ensure you use the correct contact details for",0.05504587155963303,0.018691588785046728,0.03669724770642202,0.0
+I am trying to change my delivery address,change_shipping_address,"To change your delivery address, please contact the carrier directly through the tracking link we provided. They should be able to assist you with updating your address. Please note that this process may require additional steps from the carrier's end.",0.0909090909090909,0.0,0.0909090909090909,0.0
+I can't receive the damn corporate newsletter,newsletter_subscription,"The company's email system is experiencing technical difficulties at the moment. We apologize for any inconvenience this may cause. Please check your spam folder or inbox again, as it might have been mistakenly marked as such. If you still don't see it there, please try sending an email from your device directly to the address. We appreciate your patience while we work to resolve this issue.",0.0,0.0,0.0,0.0
+i need help to see the cancellation penalty,check_cancellation_fee,"The cancellation options you have mentioned include ""Cancel at period end"" and ""Immediate cancellation"". The ""Cancel at period end"" option allows your access to continue until the paid period expires without additional charges occurring. If you choose this option, there will be no cancellation penalty as long as the subscription remains active through its expiration date. 
+
+Please note that the ""Immediate cancellation"" option means that your access will end immediately, but you can still receive a refund based on the remaining balance and the terms of the plan or local laws. However, please confirm with the customer what they prefer before proceeding with the cancellation",0.018518518518518517,0.0,0.018518518518518517,0.0
+how can I make a complaint against your company?,complaint,"To make a complaint against our company, please refer to the following steps:
+
+1. Verify your identity: Ensure you have proof of your identity (such as a driver's license) before proceeding.
+2. Contact Customer Support: Reach out to us through the appropriate channels (email, phone, chat). Our support team is here to assist you.
+3. Provide detailed information: When contacting us, be sure to include all relevant details about the issue you're experiencing, such as date, time, location, and any specific circumstances surrounding the problem.
+4. Follow-up: After providing your feedback, we",0.020833333333333332,0.0,0.020833333333333332,0.001965099594635175
+can ya help me see the early termination fee,check_cancellation_fee,"I'm sorry, but I don't have access to your account details or transaction history. To check if you've been charged an early termination fee, please contact our support team directly. They can assist you in reviewing your account statements and identifying any unexpected charges.",0.08,0.0,0.08,0.0
+what do i have to do to report errors with payments,payment_issue,"To report errors with your payments, you need to follow these steps:
+
+1. **Verify Identity**: Before discussing any payment records, ensure you're talking to someone who has access to your account details.
+
+2. **Identify Issue Type**:
+   - If the issue is related to an authorization hold, review the pending hold and confirm its status.
+   - If the issue involves a declined payment, check the reason for the decline and determine if there was a mismatch between the billing address or if the transaction was flagged as fraudulent.
+
+3. **Handle Authorization Holds**:
+   - If the hold is",0.04166666666666667,0.0,0.04166666666666667,0.0
+help me ask for a compensation,get_refund,"The SOP provides guidance on how to handle critical issues such as fraud, account takeover, or a major outage. However, it does not specifically address the process for requesting compensation. 
+
+To request compensation, you should:
+
+1. **Self-serve**: Use the help center, order tracking, and the password reset flow if applicable.
+   
+2. **Email or Ticket Support**: If your issue falls into this category, email or submit a ticket through our system.
+
+3. **After-hours Self-Serve**: For after-hours issues, use the help center, order tracking, and the password reset flow.",0.0,0.0,0.0,0.0
+create new {{Account Type}} account for daughter,create_account,"To create a new account for your daughter, please follow these steps:
+
+1. Go to the website where you want to open the account.
+2. Click on the ""Sign Up"" button.
+3. Fill out the registration form with her personal details such as name, date of birth, email address, phone number, etc.
+4. Choose a username and password for her account.
+5. Follow any additional prompts or instructions required by the website.
+6. Once the account is created, she will receive an email with a verification link to activate her account.
+
+Please note that this process may vary depending",0.03960396039603961,0.0,0.03960396039603961,0.0
+I want assistance to list the accepted payment methods,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions.",0.0,0.0,0.0,0.0
+issue submitting a secondary shipping address,set_up_shipping_address,"The issue you're experiencing may be due to the fact that your primary shipping address was already used when placing the initial order. Please try adding another shipping address during checkout. If this doesn't resolve the issue, please contact our support team at [support@example.com] for further assistance.",0.07272727272727272,0.03773584905660377,0.07272727272727272,0.0
+i need help cancelling the company newsletter subsrciption,newsletter_subscription,"To assist you with cancelling your company newsletter subscription, please follow these steps:
+
+1. Go to the website or app where you subscribe to the newsletter.
+2. Locate the ""Manage Subscriptions"" or ""My Account"" section.
+3. Select the newsletter subscription you wish to cancel.
+4. Choose the cancellation option that best suits your needs (e.g., immediate cancellation, pause).
+5. Follow the prompts to complete the cancellation process.
+
+Please note that the specific options and procedures might vary depending on the platform or service provider. If you encounter any issues during the cancellation process, feel free to reach",0.039999999999999994,0.020408163265306124,0.039999999999999994,0.0
+I need help to ask for a compensation of my money,get_refund,The SOP does not cover account access policy questions following account recovery. Please refer to the account recovery section for guidance.,0.0,0.0,0.0,0.0
+I don't know how I can see your refund policy,check_refund_policy,"The refund policy is available on our website under ""Customer Support"" section. You can also find it here: [link](https://www.example.com/refund-policy). Please note that this link will open a new tab in your browser.",0.09756097560975609,0.05128205128205129,0.09756097560975609,0.0
+"I would like to make a bloody complaint, could you help me?",complaint,Of course! I'm here to assist you. Please go ahead and tell me about your issue.,0.0,0.0,0.0,0.0
+assistance checking the restitution current status,track_refund,"The assistance you're seeking to check the restitution status falls under email or ticket support. According to the SOP, first replies should be within one business day for emails/tickets. For more complex cases, this could take up to three business days with interim updates. 
+
+Please note that the exact timeframe might vary depending on the complexity of your case. If it involves critical issues like fraud or an account takeover, these will be handled immediately and actioned by the on-call queue even if they fall outside regular working hours. 
+
+To proceed, please ensure you have the necessary details such as your account number,",0.0,0.0,0.0,0.0
+do ya deliver to {{Delivery Country}},delivery_options,"I'm sorry, but I don't know your location. Please let me know which country you're from, and I'll be happy to help you find out if we deliver there.",0.0,0.0,0.0,0.0
+i do ont know how to send fucking feedback for a service,review,"The SOP provides clear guidelines on how to handle different types of feedback. The ""After-Hours Handling"" section specifically outlines what should be done when customers contact outside of regular working hours. It states that critical issues should be handled continuously and actioned by the on-call queue, regardless of the clock. 
+
+For other types of feedback, such as complaints or suggestions, it advises acknowledging receipt, setting a realistic next-reply time, and directing the customer to relevant self-service procedures if applicable. This ensures that all feedback is addressed appropriately without causing delays or confusion. 
+
+To summarize, you should acknowledge receipt of",0.0,0.0,0.0,0.0
+"I do not want this item, I try to cancel order {{Order Number}}",cancel_order,"Hello,
+
+Thank you for reaching out. We understand your desire to cancel the order. Please confirm with us what specific action you would like to take:
+
+1. Cancel at period end (default)
+2. Immediate cancellation
+3. Pause
+
+Please let us know which option you prefer so we can proceed accordingly.
+
+Thank you for your understanding.
+
+Best regards,
+[Your Name]  
+Customer Support Representative",0.0625,0.0,0.0625,0.0
+i missed several items in purchase {{Order Number}},change_order,"I'm sorry to hear you're having trouble with your order. Could you please confirm the shipping address on the order? We'll need this information to help us find your package. Once we know where to look, I will assist you further. Please let me know if there are any other details you would like to share.",0.03278688524590164,0.0,0.03278688524590164,0.0
+how to see how long it takes for my delivery to arrive?,delivery_period,"To check the estimated delivery time for your order, you should look at the carrier scan provided with your order confirmation. This will show the expected arrival date based on the carrier's schedule. Additionally, if you need further assistance or updates, please let us know, and we'll keep you informed about any changes to the estimated delivery date.",0.03225806451612903,0.0,0.03225806451612903,0.0
+I want to make a consumer claim,complaint,"To make a consumer claim, you should follow these steps:
+
+1. Verify your identity according to our account recovery standards.
+2. Clearly explain the nature of the claim (e.g., incorrect charge, duplicate charge).
+3. Provide a reference number and the estimated timeline for resolving the issue.
+4. Log the claim reason for future reference.
+
+Please note that if the claim involves disputed amounts or suspected fraud, escalate the matter through the appropriate channels as outlined in our escalation matrix.",0.0,0.0,0.0,0.0
+i cant enter a secondary shipping address,set_up_shipping_address,"The SOP states that if you cannot enter a secondary shipping address, you should ask the customer to check with neighbors, household members, and safe drop-off spots. It also suggests allowing 24 hours for carriers to scan addresses. If still missing, opening a carrier investigation may be necessary. Please ensure the customer checks these options and allows sufficient time for the carrier to complete the process.",0.056338028169014086,0.028985507246376812,0.056338028169014086,0.0
+where do i inform  of problems with a registration,registration_problems,"To report an issue with your registration, please visit the support section of our website where you can submit feedback or contact us directly through email or phone. If you encounter any difficulties during the registration process, we recommend checking the status dashboard for any known incidents or reaching out to our helpdesk team for assistance.",0.03448275862068965,0.0,0.03448275862068965,0.0
+what do I need to do to check the withdrawal fees?,check_cancellation_fee,"To check the withdrawal fees, you should look at your bank statement or financial institution's website. The fee will typically appear under ""fees"" or ""charges,"" and it may vary depending on your bank. If you're unsure about how to access these details, please refer to your bank's customer service for assistance.",0.07017543859649122,0.0,0.07017543859649122,0.0
+can ya help me cancel order {{Order Number}},cancel_order,"Sure, I can assist you with cancelling your order. Please provide me with the Order Number so we can proceed.",0.18181818181818182,0.0,0.18181818181818182,0.0
+i mised some items in purchase {{Order Number}} can i add them,change_order,"Yes, you can add the items that were missed during your purchase. Please go to your account settings and update the missing items there. If you encounter any issues, we recommend verifying the details of the items and contacting your bank if necessary.",0.0,0.0,0.0,0.0
+what do I have to do to get the bill from {{Person Name}}?,get_invoice,"To resolve the issue of getting the bill from {{Person Name}}, please follow these steps:
+
+1. **Verify Identity**: Ensure you are communicating directly with the correct person who should receive the bill. You may need to confirm your identity to avoid unauthorized access.
+
+2. **Identify Issue Type**: Determine if the issue is related to an authorization hold, a declined payment, or a charge problem. This will help you decide which step to take next.
+
+3. **Handle Authorization Holds**:
+   - If there is an authorization hold, check the status of the hold. It typically takes up to",0.020618556701030927,0.0,0.020618556701030927,0.0
+i have to see at what time i can contact customer service,contact_customer_service,"Customer Service operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region. You can reach out via live chat, email, or ticket support. For live chat, expect a response within 2 minutes during staffed hours. Email or ticket support will respond within one business day for most cases, but complex ones might take up to three business days with interim updates.",0.054054054054054064,0.02777777777777778,0.054054054054054064,0.0
+I'm experiencing a registration error,registration_problems,"Thank you for providing your details. Please capture the exact symptom, when it started, and whether it is reproducible. Also, record the environment: app or browser version, operating system, and device. We will proceed with these steps to help resolve your issue.",0.0,0.0,0.0,0.0
+updating information on {{Account Category}} account,edit_account,"To assist you with updating your information on the {{Account Category}} account, please follow these steps:
+
+1. **Capture the Exact Symptom**: Describe the specific issue you're encountering. This will help us understand what exactly is going wrong.
+
+2. **Record Environment**: 
+   - **App/Browser Version**: Please specify the version of the app or browser you are currently using.
+   - **Operating System**: Mention the operating system you are running.
+   - **Device**: Specify the type of device you are using.
+
+3. **Try Standard Recovery Sequence**:
+   - Update to the latest",0.023255813953488372,0.0,0.023255813953488372,0.0
+where to send feedback about a product?,review,The SOP mentions that you should contact our support team if you have questions or concerns regarding your purchase. Please let us know how we can assist you further.,0.0,0.0,0.0,0.0
+I can't submit a new shipping address,set_up_shipping_address,The exception you're encountering suggests there may be an issue with your shipping address. Please try checking if the address is correct and then contact the carrier directly through the tracking link they've provided. They should be able to assist you further.,0.08333333333333334,0.04347826086956522,0.08333333333333334,0.0
+I don't know how I can submit some feedback,review,"To submit feedback, please follow these steps:
+
+1. **Capture the exact symptom**: Describe what you're experiencing clearly.
+2. **Record environment**: Include details about your device, OS, and app version.
+3. **Try the standard recovery sequence**:
+   - Update to the latest version of the app.
+   - Restart the app.
+   - Clear cache.
+   - Retry on another network or device.
+4. **Confirm if the issue is account-specific or affects all users**: Check the status dashboard for a known incident.
+
+Please note that we cannot escalate this issue further as there isn't",0.0,0.0,0.0,0.0
+I need help to find my damn invoice from {{Person Name}},check_invoice,"To assist you in finding your invoice, please provide me with your name and the date range of the invoice you're looking for. This will allow me to search through our records and locate the correct document for you.",0.047619047619047616,0.0,0.047619047619047616,0.0
+wanna order a few of ur article,place_order,"Sure! I'd be happy to help you place your order. Please let me know what articles you would like to purchase, and we'll proceed from there.",0.13333333333333333,0.0,0.13333333333333333,0.0
+what do i have to do to notify of a problem with a sign-up,registration_problems,"To notify of a problem with a sign-up, you should first ensure that the issue has been escalated to account recovery if necessary. Then, proceed as follows:
+
+1. Confirm the registration details (email) by contacting the customer directly via phone or email to gather more information about the issue.
+2. Once confirmed, trigger the account recovery process by sending a notification to the customer indicating that they need to contact support due to the issue encountered during sign-up.
+3. Provide clear instructions on how to proceed, including any required documentation or additional steps needed to resolve the issue.
+4. Follow up with the",0.03738317757009346,0.0,0.01869158878504673,0.0
+where to change to the {{Account Type}} account?,switch_account,"To change your account type, you need to go through the following steps:
+
+1. Log into your current account.
+2. Go to the settings section of the app.
+3. Look for an option labeled ""Change Account Type"" or something similar.
+4. Select the desired account type from the options presented.
+5. Follow the prompts to complete the change process.
+
+Please note that these instructions may vary slightly depending on the specific app or platform you're using. If you encounter difficulties during this process, please refer to the help center or support team for further assistance.",0.020408163265306124,0.0,0.020408163265306124,0.0
+help me check ur available payment options,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can be combined with one other payment method at checkout. Cash on delivery is not offered for online orders.",0.0909090909090909,0.047619047619047616,0.0909090909090909,0.0
+adding article to order {{Order Number}},change_order,"To proceed with adding an article to your order, please confirm the following details:
+
+1. **Order Identifier**: Please provide the unique identifier assigned to your order.
+2. **Registered Email**: Please provide the email associated with this order for communication purposes.
+
+Once you've provided these details, we will proceed with adding the item to your order.",0.03448275862068965,0.0,0.03448275862068965,0.0
+where do I lodge a claim against your business?,complaint,"To lodge a claim against our business regarding a charge, please follow these steps:
+
+1. Contact us through the support portal at <support.example.com>.
+2. Select ""Billing Disputes"" under the ""Support"" section.
+3. Follow the triage process outlined in the SOP to identify the specific charge you're concerned about.
+4. Once identified, proceed to the common causes section to understand if the charge is genuine or a duplicate.
+5. If necessary, escalate the issue to the billing supervisor via the escalation matrix if the charge exceeds standard agent authority.",0.0,0.0,0.0,0.0
+help me see under which circumstances can i request a refund,check_refund_policy,"According to our refund policy, you can request a refund within 30 days of the original purchase or delivery date, whichever is later. The eligibility criteria include the item being unused or defective, and the request referencing a valid order identifier. Digital goods and subscription fees already consumed are non-refundable except where required by local consumer law.",0.06557377049180328,0.033898305084745756,0.06557377049180328,0.0
+wanna use the {{Account Type}} account i need help,switch_account,Hello! I'm here to assist you with your {{Account Type}} account. Please let me know how we can help you today.,0.08333333333333334,0.0,0.08333333333333334,0.0
+where to file a customer reclamation against your company ?,complaint,"To file a customer claim against our company, please follow these steps:
+
+1. Contact us through the support portal or email at <support@yourcompany.com>.
+2. Describe the issue you're facing in detail, including the date of the transaction, the amount involved, and any relevant details about what was charged.
+3. Our support team will review your case and determine if it falls under the scope of billing disputes.
+4. Once confirmed, we'll assign a dedicated agent who can help resolve the issue according to the procedures outlined in the SOP. 
+
+Please note that the process may take up to",0.0,0.0,0.0,0.0
+close {{Account Type}} account,delete_account,"The user wants to close their account. However, this request seems unusual as closing an account typically involves revoking access to all associated services and resources. The SOP mentions account access policy questions following account recovery, which suggests that there may be some confusion about what exactly needs to be done with the account. 
+
+Given the context of the SOP, I would suggest the following:
+
+1. **Capture the exact symptom**: Ask the user to describe the specific issue they're experiencing with their account.
+   
+2. **Record environment**: Request details such as the app or browser version, operating system, and device being",0.019417475728155338,0.0,0.019417475728155338,0.0
+I do not know how I can see the cancellation fees,check_cancellation_fee,"The cancellation fee will depend on your specific subscription plan and the cancellation options you choose. If you have an immediate cancellation, there might be a fee associated with that. Please check your account details or contact support for more information.",0.13636363636363635,0.047619047619047616,0.0909090909090909,0.0
+i do not know what i need to do to download the bioll #12588,get_invoice,"The BiLL #12588 cannot be downloaded directly from our system as it appears to be a unique identifier rather than a file or document. To proceed, you would need to contact your support team via the appropriate method (e.g., phone, email) to inquire about downloading this specific BiLL. They will have the necessary steps and resources to assist you.",0.0,0.0,0.0,0.0
+change to freemium acount,switch_account,"The user would like to switch their account to a free version. According to the SOP, offering a free trial or downgrading to a free version is acceptable when the customer's concern is price or temporary non-use. However, there is no specific mention about how to proceed with this change. Therefore, I will need more information to assist you better. Please let me know if you have any questions or concerns regarding the cancellation process.",0.05063291139240507,0.0,0.05063291139240507,0.0
+want help retrieving the pwd of my user account,recover_password,"Hello! I'm here to assist you with your password retrieval request. Please follow these steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Click on the ""Send me a password reset link"" option.
+3. Check your inbox for the reset email. Make sure to read any emails from your email provider as they might be marked as spam.
+4. Follow the instructions in the email to reset your password.
+
+Please ensure you have the correct email address associated with your account. If you're unsure about this, please double-check the email address listed on your",0.019230769230769232,0.0,0.019230769230769232,0.0
+I need to recover my profile password,recover_password,"To help you recover your password, please click on the ""Forgot password"" link on the sign-in page. This will send a reset email to the registered email address associated with your account. The reset email contains a unique link that is valid for 60 minutes and should only be used once. Please ensure that the email address matches the one you have on file, as clicking on any other email could potentially expose your account to risk. Check your spam folder if you don't see the email within 60 minutes. If you're unable to locate the email, try resending it by following",0.03738317757009346,0.0,0.03738317757009346,0.0
+i do not know how to edit my delivery address,change_shipping_address,"To resolve this issue, please follow these steps:
+
+1. Check your order details: Locate the order by its identifier and the registered email. Obtain the tracking number and carrier link from the tracking section of the website.
+
+2. Contact the carrier: Reach out to the carrier responsible for delivering your package. You will need to provide them with the tracking number and carrier link.
+
+3. Follow the carrier's instructions: The carrier may ask you to enter additional information such as your name, phone number, and delivery address. They might also suggest checking with neighbors, household members, or safe drop-off spots if",0.018867924528301886,0.0,0.018867924528301886,0.0
+need assistance to cancel order {{Order Number}},cancel_order,"Hello,
+
+Thank you for reaching out. I'm here to assist you with your cancellation request. Could you please confirm what specific action you would like to take? Are you looking to cancel the subscription at the end of the current period, immediately cancel the subscription, or do you need to pause the subscription?
+
+Also, could you let me know the Order Number so we can verify the correct subscription details?
+
+Thank you for your understanding.
+
+Best regards,
+[Your Name]",0.04878048780487806,0.0,0.04878048780487806,0.0
+want help to change several items of purchase {{Order Number}},change_order,"Hello,
+
+Thank you for reaching out. I'm here to assist you with your request to change several items of purchase. Please note that we do not have access to your specific Order Number, but I will guide you through the process based on general guidelines.
+
+To proceed:
+
+1. **Verify the Order**: Confirm that you want to make changes to multiple items purchased under the same Order Number. This ensures that all items involved are part of the same transaction.
+
+2. **Select the Correct Return Method**: Since this is a change of mind return, you might need to pay for the return shipping costs.",0.03773584905660378,0.0,0.03773584905660378,0.0
+I have to chat with a livbe agent,contact_human_agent,"To ensure you receive timely assistance, please expect a live chat response within two minutes during our regular working hours (Monday to Friday from 08:00 to 20:00). Please note that after-hours chats might take longer due to the limited number of agents available at those times.",0.03846153846153846,0.0,0.03846153846153846,0.0
+help me contact customer assistance,contact_customer_service,"To assist you, I will need some additional information from your end:
+
+1. What type of support do you require (live chat, email, phone)?
+2. Are you looking for live chat, email, or phone support?
+3. If you're calling, what is your preferred language?
+
+Once I have this information, I'll be able to guide you on how best to proceed.",0.0,0.0,0.0,0.0
+assistance seeing when my purchase is going to arrive,delivery_period,"To help you track your order, please provide the following details:
+
+1. Your order identifier (usually found at the top of the invoice or within the confirmation email).
+2. Your registered email address.
+
+With this information, we will be able to provide you with the tracking number and carrier link. Please note that it may take up to 24 hours for the tracking information to become active, but if there is no movement on the first day, it might indicate that the item was scanned early. 
+
+Once we have these details, I'll assist you further in understanding the status of your order and",0.0,0.0,0.0,0.0
+i need help to get my invoices from {{Person Name}},get_invoice,"I'm sorry to hear that you're having trouble getting your invoices. Could you please confirm if you've already checked the invoice section of your account? If not, could you try logging into your account and checking there? If you're unable to find them, we may need to contact the accounting department at your company directly. Please let me know how I can assist further.",0.05714285714285715,0.0,0.05714285714285715,0.0
+I dp not know how to cancel order {{Order Number}},cancel_order,"The cancellation options you have are:
+
+1. Cancel at period end: Access will continue until the paid period expires, but there will be no further charges.
+2. Immediate cancellation: Access will end immediately, and eligible unused time may be refunded based on the plan terms or local laws.
+3. Pause: Billing will suspend for a chosen interval and resume automatically unless cancelled.
+
+Please let me know which option you would like to choose, along with the effective date.",0.025,0.0,0.025,0.0
+i need assistance to see when will my product arrive,delivery_period,"To assist you with your inquiry about the estimated arrival time, please note that we do not have real-time tracking capabilities. However, based on our standard timelines:
+
+- Domestic orders typically deliver within 3-7 business days.
+- International orders usually take between 10-21 business days.
+
+We recommend checking the latest carrier scan and the warehouse dispatch status to get a clearer picture of your expected delivery date. If the parcel is still in transit but delayed, we suggest opening a carrier trace to receive an update within 24-48 hours. 
+
+Please keep in mind that carrier scans",0.019999999999999997,0.0,0.019999999999999997,0.0
+"I bought some articles, how to cancel order {{Order Number}}?",cancel_order,"To cancel your order with Order Number {{Order Number}}, you can choose between three options:
+
+1. **Cancel at Period End**: Your access will continue until the paid period expires without any further charges occurring.
+2. **Immediate Cancellation**: Your access will end immediately, but you'll still receive any remaining free trial or promotional offers.
+3. **Pause**: Billing will suspend for a chosen interval and resume automatically unless cancelled.
+
+Please note that the first two options do not involve any refunds. If you prefer a refund, please let us know so we can process it according to our refund policy.",0.03960396039603961,0.0,0.03960396039603961,0.0
+is it possible to list the available payment modalities ?,check_payment_methods,"Yes, the store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can also be combined with one other payment method at checkout.",0.10810810810810811,0.05714285714285715,0.10810810810810811,0.0
+can you give me information about the damn shipment options?,delivery_options,"Sure! To help you better, I need more details such as your order ID and the email associated with it. Once we have this information, I'll be able to guide you through the different stages of your order and how to track its progress. Please provide these details so we can proceed.",0.0,0.0,0.0,0.0
+I do not know what to ddo to update the address,change_shipping_address,"The process you're describing involves updating your email address associated with your account. Here’s how you might proceed:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Follow the instructions to receive a new password reset email.
+3. Check your spam folder if the email didn't reach there.
+4. Ensure the email address matches exactly as it appears in your account settings.
+5. Click on the reset link in the email to initiate the password reset process.
+6. Use the new password immediately after signing in to ensure all changes have been made correctly.
+
+Remember, this",0.03773584905660377,0.0,0.018867924528301886,0.0
+I call to makle a customer claim against your business,complaint,"Hello! I'm here to help you make a customer claim against our business. Please follow these steps:
+
+1. Verify your identity as we need to ensure you're authorized to make claims.
+2. Clearly explain the issue you're facing so we can understand what happened.
+3. We'll provide a reference number and let you know when we expect to resolve the issue.
+4. Our goal is to assist you in making a valid claim and resolving any disputes.",0.0,0.0,0.0,0.0
+is it possible to create a standard account?,create_account,"Yes, it is possible to create a standard account. Please follow these steps:
+
+1. Verify your identity by providing valid identification documents.
+2. Follow the verification process to ensure you have access to your account.
+3. Once verified, proceed to create your account according to the system's guidelines.",0.07843137254901959,0.0,0.07843137254901959,0.0
+help seeing your money back  policy,check_refund_policy,"The User Policy section of our support documentation covers how to recover an account if you're unable to log in due to a login failure or other account-related issues. However, there isn't a specific section dedicated to ""Help See Your Money Back"" policy. 
+
+To assist with this request, I would recommend checking the Help Center under the 'Account Recovery' section where you'll find detailed instructions on recovering your account. If you need further assistance, please let me know.",0.047058823529411764,0.0,0.023529411764705882,0.0
+"I ain't registered, I have got to open a {{Account Type}} account",create_account,"The system you're trying to access requires registration first. Please click [here](https://www.example.com/register) to create your account. Once you've done so, you'll be able to log in and continue where you left off.",0.09523809523809523,0.0,0.09523809523809523,0.0
+i have a issue entering my secondary delivery address,set_up_shipping_address,"To resolve this issue, please ensure that you enter your correct secondary delivery address on the order form. You may need to contact the carrier directly to confirm if they have scanned the package at your new address. Please note that carriers often scan packages early, so it might be helpful to wait up to 24 hours from when you last received a tracking update. If you're still unable to find the package, we recommend opening a carrier investigation to see what steps can be taken.",0.04395604395604396,0.0,0.02197802197802198,0.0
+i have to inform of troubles with online payment,payment_issue,Thank you for reaching out. I'm here to help. Please let me know what kind of issues you're facing with your online payment.,0.14814814814814814,0.0,0.07407407407407407,0.0
+i dont know how to cancel purchase {{Order Number}},cancel_order,"The cancellation options for your subscription can vary depending on the type of subscription you have. If you're unsure about how to proceed, please check the following:
+
+1. **Cancel at Period End**: This will continue access until the payment period ends without additional charges. No refunds will be issued for this method.
+
+2. **Immediate Cancellation**: Access will end immediately with no further charges. Eligible unused time might be refunded based on the subscription agreement or local laws.
+
+3. **Pause**: Billing will suspend for a selected duration and resume automatically unless canceled.
+
+Please note that these options are subject to the",0.019417475728155338,0.0,0.019417475728155338,0.0
+need help downloading the invoices from {{Person Name}},get_invoice,"I'm sorry, but I don't see any invoice download option within the given SOP. Could you please clarify if there was an error during the purchase process? If so, could you let me know which invoice(s) you're trying to download?",0.04347826086956522,0.0,0.04347826086956522,0.0
+where could I submit the shipping address?,set_up_shipping_address,"The shipping address should be submitted through the order details section of your account. You will find this under the ""Order Details"" tab. Once you click on the order, you'll see a section where you can enter the shipping address. Please ensure that all fields are filled out correctly, including the city, state, and postal code.",0.06557377049180328,0.03389830508474576,0.06557377049180328,0.0
+i dont know what i need to do to cancel my standard account,delete_account,"To cancel your standard account, you have three options:
+
+1. **Cancel at Period End**: Access will continue until the paid period expires without any further charges occurring.
+2. **Immediate Cancellation**: Access will end immediately, but there might be an opportunity to get a refund based on the plan terms or local laws.
+3. **Pause**: Billing will suspend for a chosen interval and resume automatically unless cancelled.
+
+Please choose one of these options, and we can proceed with the necessary steps.",0.02439024390243903,0.0,0.02439024390243903,0.0
+"I have got to talk to customer service, how can I do it?",contact_customer_service,"To reach customer service, you can use either live chat, email, or ticket support. If you prefer to speak with someone over the phone, you can call our number at [insert phone number]. Please note that we offer live chat and phone support from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region.",0.06153846153846154,0.031746031746031744,0.06153846153846154,0.0
+I try to change to the {{Account Type}} account,switch_account,"To change your account type, please ensure you have logged into your account. Next, navigate to the settings section of the app where you can select your preferred account type. If prompted, simply choose the new account type from the options available. Please note that this process may vary slightly depending on the specific app or platform you're using. If you encounter any difficulties, feel free to reach out for further assistance.",0.02666666666666666,0.0,0.02666666666666666,0.0
+check in which cases can I ask for a fucking reimbursement,check_refund_policy,"The user is asking about situations where you might be able to request a refund or reimbursement. Based on the provided SOP, there are several scenarios:
+
+1. A charge that the customer doesn't recognize (an unknown charge).
+2. An unexpected large charge.
+3. A duplicate charge.
+4. A charge after the customer believed a service had ended.
+
+These are all examples of circumstances where a customer could potentially seek a refund or reimbursement based on the SOP guidelines.",0.024390243902439022,0.0,0.024390243902439022,0.0
+help to see in what cases can i request my money back,check_refund_policy,"According to your refund policy, you can request a refund if the following conditions are met:
+
+1. The item was purchased or delivered more than 30 days ago (whichever is later).
+2. The item is either unused or defective.
+3. You have a valid order identifier.
+
+Please note that digital goods and subscription fees already consumed cannot be refunded.",0.06451612903225806,0.03333333333333333,0.06451612903225806,0.0
+what do I have to do to restore my user account key?,recover_password,"To restore your user account key, please follow these steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Follow the instructions to receive a new password reset email.
+3. Click on the reset link in the email and follow the prompts to update your password.
+4. Verify that you can log in using the new password by clicking the ""Sign In"" button on the login page.
+
+Remember to keep your email address secure and avoid sharing it with anyone else.",0.02298850574712644,0.0,0.02298850574712644,0.0
+I am waiting for an rebate of {{Currency Symbol}}{{Refund Amount}},track_refund,"To assist you with your refund request, please follow these steps:
+
+1. Verify the order identifier and purchase date.
+2. Confirm the item condition and refund reason.
+3. Check for any previous refunds on the same order to avoid double processing.
+4. Submit the refund and share the expected timeline above.
+5. Log the reason code for reporting.
+
+Please note that the total amount will be processed within 5-7 business days after approval. Bank or card-network posting can add an additional 3-5 business days, so expect the full process to take up to 12 business days.",0.019801980198019806,0.0,0.019801980198019806,0.0
+i try to see ur reimbursement policy,check_refund_policy,"The billing disputes SOP provides guidance on how to handle issues related to charges, including refunds, prorations, taxes, and shipping costs. It outlines common causes of disputed charges such as pre-authorization holds, prorations due to plan changes, and tax or shipping fees. The process involves triaging the charge, distinguishing between genuine duplicates and those that will be released automatically, and resolving confirmed billing errors and duplicates within 3-5 business days. If the charge was initiated through a bank, the refund should be handled internally without issuing a second refund.",0.02127659574468085,0.0,0.02127659574468085,0.0
+I am waiting for a reimbursement of {{Refund Amount}} dollars,track_refund,"To assist you with your refund request, please follow these steps:
+
+1. Verify the order identifier: Ensure you have the correct order number and the date it was placed.
+2. Confirm the item condition: Make sure the item is defective or unused according to the criteria specified in the refund policy.
+3. Check for any previous refunds: Review your account history to ensure there are no duplicate requests before submitting your new one.
+4. Submit the refund: Follow the instructions provided to submit your refund application.
+5. Share the expected timeline: Let us know how long we should expect the process to take.",0.019047619047619046,0.0,0.019047619047619046,0.0
+check bills from {{Person Name}},check_invoice,"I'm sorry, but I am unable to assist with that request. Please try again later.",0.0,0.0,0.0,0.0
+is it possible to get my bill #00108?,get_invoice,"Yes, you can check your bill #00108. Please follow these steps:
+
+1. Go to the billing page of your account.
+2. Look for the ""View Bills"" option.
+3. Select Bill #00108.
+4. Review the details of the bill.
+
+Please note that if there are any issues with the bill, such as incorrect charges or missing components, we may need to investigate further.",0.0,0.0,0.0,0.0
+i do not know how i can obtain compensations of my money,get_refund,"It seems you're experiencing a declined payment. The store advises customers to check their card details and contact their bank if the decline persists. If the issue isn't resolved, they should consider escalating it through the escalation matrix. Please try these steps to resolve your issue.",0.0,0.0,0.0,0.0
+I don't know what to do to sign up to your newsletter,newsletter_subscription,"To sign up for our newsletter, please visit the following link: [insert link]. You will need to enter your email address and click 'Subscribe'. Please ensure you have a valid email address when signing up.",0.05405405405405405,0.0,0.05405405405405405,0.0
+can you help me to take a quick look at my bill #85632?,check_invoice,"Sure, I can assist you with reviewing your bill #85632. Please note that we cannot access your personal data directly through our system. However, if you have any specific questions about the charges on your bill, such as identifying the exact charge, matching it to an order or subscription, or understanding why there might be discrepancies, feel free to share those details. This way, I can help you investigate further without revealing sensitive information.",0.0,0.0,0.0,0.0
+"I need to unsubscribe from your newsletter, how can I do it?",newsletter_subscription,"To unsubscribe from our newsletter, you have two options:
+
+1. **Cancel at Period End**: Your access will continue until the paid period expires without any further charges occurring.
+2. **Immediate Cancellation**: Your access will end immediately, but you'll still receive any remaining content within the current period. 
+
+Please let us know which option you prefer so we can proceed with the cancellation.",0.03076923076923077,0.0,0.03076923076923077,0.0
+I want assistance to request reimbursements of my money,get_refund,"To assist you in requesting reimbursement of your money, please follow these steps:
+
+1. Confirm the exact charge details (date, amount, and descriptor) so we can identify the correct transaction.
+2. Ensure you have proof of purchase, such as receipts or invoices, which may be necessary for verification purposes.
+3. Contact our support team at [support email] or [support phone number], and describe the situation clearly.
+4. Our representative will guide you through the process and help resolve the issue accordingly.",0.0,0.0,0.0,0.0
+need assistance cancelling purchase {{Order Number}},cancel_order,"Hello,
+
+Thank you for reaching out with your inquiry about cancelling an order. I'm here to assist you with this process.
+
+Could you please confirm what specific action you would like to take? Are you looking to cancel the order immediately, or do you prefer to have a pause in the payment cycle?
+
+Also, could you let me know the Order Number associated with the purchase so we can proceed accordingly?
+
+Thank you for your understanding.
+
+Best regards,
+[Your Name]",0.048192771084337345,0.0,0.048192771084337345,0.0
+do you shp to {{Delivery City}}?,delivery_options,"I'm sorry, but I don't have access to your specific orders or the location of your account. To answer your question about whether we're shipping to {{Delivery City}}, please provide me with your order details or the city where you want to receive your package.",0.039999999999999994,0.0,0.039999999999999994,0.0
+how to reset my profile pin,recover_password,"The process you're looking for is related to resetting your profile PIN rather than changing your password. To reset your profile PIN, please follow these steps:
+
+1. Go to the ""My Account"" section of your website.
+2. Click on the ""Change Profile Information"" option.
+3. Follow the prompts to enter your current PIN and then choose a new PIN.
+4. Save your changes.
+
+Please note that this process may vary slightly depending on the specific platform or system you're using. If you encounter any issues during the process, feel free to reach out to our support team for assistance.",0.019417475728155338,0.0,0.019417475728155338,0.0
+how do I retrieve the password of my user profile?,recover_password,"To retrieve your password, please click on the ""Forgot password"" link on the sign-in page. This will send you a reset email to the registered email address associated with your account. The reset email contains a unique link that is valid for 60 minutes and should be clicked within this time frame. Please allow a few minutes for the email to reach your inbox. Once you receive the email, open it and follow the instructions to reset your password.",0.02439024390243903,0.0,0.02439024390243903,0.0
+help checking in which cases can I ask to be reimbursed,check_refund_policy,"The process you're describing pertains to handling disputed charges related to your subscription services, orders, taxes, or shipping fees. Here are some common scenarios where you might seek reimbursement:
+
+1. **Chargeable Amounts**: You may encounter situations where the total amount charged exceeds what was anticipated based on your subscription plans, order details, or other relevant factors.
+
+2. **Duplicate Charges**: Sometimes, you might receive multiple charges for the same transaction, leading to confusion about whether these were intended or accidental.
+
+3. **Unexpected Charges**: There could be instances where unexpected charges appear on your statement, such as",0.0,0.0,0.0,0.0
+i have a question about opening pro accounts,create_account,"I'm sorry, I don't understand your question. Could you please clarify what specific issue you're facing?",0.0,0.0,0.0,0.0
+i dont know how to inform of a payment problem,payment_issue,"When you encounter a payment issue, such as a declined transaction or unauthorized charges, here’s what you should do:
+
+1. **Verify Identity**: Before discussing your payment history, ensure you have access to all relevant details about your account and transactions.
+
+2. **Identify Issue Type**:
+   - If the issue is related to a declined transaction, check if it was due to insufficient funds, a mismatched billing address, or a fraud alert from your bank.
+   - If the issue involves unauthorized charges, review your account statements and contact your bank to report the fraudulent activity.
+
+3. **Guide",0.04166666666666667,0.021276595744680854,0.04166666666666667,0.0
+where do I buy something?,place_order,"The SOP does not mention anything about purchasing products. It only discusses product returns. Therefore, based solely on the given information, we cannot determine where to purchase products.",0.0,0.0,0.0,0.0
+I need assistance to chat with a human agent,contact_human_agent,"The live chat service operates from 08:00 to 20:00 weekdays and 10:00 to 18:00 weekends. If you need assistance via live chat, please check these operating hours.",0.0,0.0,0.0,0.0
+check status of order,track_order,"To check the status of your order, please use the following steps:
+
+1. Locate the order by its identifier and the registered email.
+2. Follow these states: Processing (payment confirmed but not yet packed), Preparing to Ship (packed, awaiting carrier pickup), In Transit (carrier has the parcel; tracking events update as it moves), Out for Delivery (on the vehicle for delivery that day), Delivered (carrier marked the parcel delivered), Exception (address issue, failed delivery, or held parcel needing action).
+
+The tracking number will be provided along with the carrier link. It may take up to",0.041237113402061855,0.0,0.020618556701030927,0.0
+I need assistance to notify of an error with online payments,payment_issue,"To assist you with notifying of an error with your online payments, please follow these steps:
+
+1. **Verify Identity**: Before discussing any payment records, ensure you have verified your identity to avoid unauthorized access.
+
+2. **Identify Issue Type**: Determine if the issue is related to an authorization hold, a declined transaction, or a genuine charge problem.
+
+3. **Handle Declines**: If a decline occurs due to insufficient funds, an expired card, or a billing address mismatch, advise the customer to check their card details and contact their bank for further assistance. Do not request sensitive information like card numbers",0.039999999999999994,0.0,0.039999999999999994,0.0
+i try to chat with a live agent,contact_human_agent,"To assist you with your request, I will need more details about when you would like to start the conversation. Please let me know if you want to begin at any specific time, such as 9:30 AM or 6 PM, or if there is a preferred duration for our initial interaction.",0.0,0.0,0.0,0.0
+could you help me cancelling the standard account?,delete_account,"Sure, I can assist with that. Could you please tell me what options you would like to choose? Do you prefer immediate cancellation, or do you need more time to consider your decision?",0.0,0.0,0.0,0.0
+will umail me the bills from {{Person Name}},get_invoice,The system currently does not support sending emails directly. Please check your email settings to manually download the bills.,0.0,0.0,0.0,0.0
+I am trying to check what hours I can call customer support,contact_customer_service,"Customer support operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region.",0.08,0.0,0.08,0.0
+"I am unhappy with your work, I want to file a consumer claim",complaint,"The SOP you've shared outlines how to handle billing disputes, but it doesn't specifically address filing a consumer claim. Could you please clarify what kind of claim you're referring to? Are you looking for assistance in resolving a billing issue, or are you seeking help in filing a formal complaint against our company? Please provide more details so we can assist you better.",0.02985074626865672,0.0,0.02985074626865672,0.0028919892142542742
+I want help seeing how soonj can I expect my parcel,delivery_period,"To determine when you can expect your parcel, please check the latest carrier scan and the warehouse dispatch status. If the parcel is still in transit, we will contact you with an update within 24-48 hours. If the parcel shows no movement for more than 5 business days, we will consider it potentially lost and offer a replacement shipment or a full refund. Please note that if there are any issues such as weather, customs, or peak-season backlogs, we will explain the cause and give a realistic revised estimate instead of a guaranteed date.",0.0,0.0,0.0,0.0
+i want information about the removal of a standard account,delete_account,"To remove a standard account, you will need to follow these steps:
+
+1. Verify your identity by providing proof of your account.
+2. Once verified, proceed to the privacy workflow to delete your account.
+3. The deletion process will take place according to the statutory deadline, which is typically 7 days from when the request was made.
+4. After the deletion is complete, we will notify you via email with further instructions. Please keep this email open for at least 7 days, as there might be additional steps required during the cleanup process.",0.04210526315789474,0.0,0.04210526315789474,0.0
+i have to list the available  payment options,check_payment_methods,"The store accepts major credit and debit cards, common digital wallets, and bank transfer for eligible regions. Gift cards and store credit can be combined with one other payment method at checkout.",0.11428571428571428,0.06060606060606061,0.11428571428571428,0.0
+i do not know how to check my refund current status,track_refund,"To check your refund status, please follow these steps:
+
+1. Verify the order identifier and purchase date.
+2. Confirm the item condition and refund reason.
+3. Check if there were any previous refunds on the same order to avoid double processing.
+4. Submit the refund and share the expected timeline above.
+5. Log the reason code for reporting.
+
+Please note that the expected timeline mentioned earlier might vary depending on the specific circumstances.",0.02666666666666666,0.0,0.02666666666666666,0.0
+"I have to correct purchase {{Order Number}}, I need assistance",change_order,"Hello! Thank you for reaching out. To assist you, could you please provide me with your Order Number? Once I have that, I'll be able to help you with the necessary steps to resolve the issue.",0.05128205128205129,0.0,0.05128205128205129,0.0
+could uhelp me switch  some articles of order {{Order Number}},change_order,"I'm sorry, but I am unable to assist with switching orders. Please contact our support team directly for assistance.",0.09090909090909091,0.0,0.09090909090909091,0.0
+I do not know what I have to do to speak with an operator,contact_human_agent,The SOP states that you should contact the support center directly through their website or app. They can then guide you on how to proceed. Please visit [website] or download the [app] from your device to get started.,0.048780487804878044,0.0,0.048780487804878044,0.0
+how could i purchase some fucking articles,place_order,"I'm sorry, but I don't understand your request. Could you please clarify what you're trying to buy?",0.0,0.0,0.0,0.0
+I don't know how to inform of sign-up errrors,registration_problems,"When you encounter issues during the sign-up process, please ensure your email is correct by double-checking the spelling and verifying if there are any unverified aliases associated with your email. If the issue persists, try resending the verification email. Please allow up to 5 minutes for the email to be delivered.",0.0,0.0,0.0,0.0
+need help to set my delivery address up,set_up_shipping_address,"To assist you in setting up your delivery address, please follow these steps:
+
+1. Go to the tracking page where you received your order.
+2. Click on the ""Find Your Order"" button.
+3. Enter your order identifier and registered email.
+4. Follow the prompts to enter your delivery address.
+5. Once you've entered your address, click on the ""Next"" button to proceed.
+6. You will be asked if you want to continue with the shipment. Select ""Yes.""
+7. Wait for the carrier to confirm your address. This may take some time depending on the carrier's",0.05940594059405941,0.0202020202020202,0.05940594059405941,0.0
+i dont have a {{Account Category}} account eyt i need to sign up,create_account,"Hello! I'm here to help you sign up for your {{Account Category}} account. Please follow these steps:
+
+1. Go to our website and click on the ""Sign Up"" button.
+2. Fill out the required fields such as name, email, and password.
+3. Make sure to choose a strong password that meets our requirements.
+4. Click on the ""Create Account"" button when you're done.
+
+Please note that we may require additional verification steps if needed. We appreciate your patience while we assist you.",0.046511627906976744,0.02380952380952381,0.046511627906976744,0.0
+can you tell me more about updating my delivery address?,change_shipping_address,"To update your delivery address, please follow these steps:
+
+1. Locate the order by its identifier and the registered email.
+2. Use the tracking number and carrier link provided to track the progress of your order.
+3. Check if there are any updates regarding your delivery address. If not, proceed to the next step.
+4. Contact the carrier directly through the tracking link to request an address change.
+5. Follow the instructions given by the carrier to complete the address correction process.
+
+Remember, carriers may need additional verification steps such as providing proof of identity or confirming the new address. Please be patient and",0.037383177570093455,0.0,0.037383177570093455,0.0
+help informing of a problem with sign-up,registration_problems,I'm sorry to hear you're experiencing issues with your sign-up process. Could you please provide me with more details about what you've tried so far?,0.0,0.0,0.0,0.0
+chnge data on {{Account Type}} account,edit_account,The system cannot change your data on the {{Account Type}} account directly. Please contact our support team for assistance.,0.09523809523809525,0.0,0.09523809523809525,0.0
+"I have got to edit my goddamn account, could you help me?",edit_account,Of course! I'm here to assist you. Could you please tell me how we can proceed?,0.0,0.0,0.0,0.0
+I do not know what I have to do to chat with a human agent,contact_human_agent,"To chat with a human agent, you should use the live chat feature. The live chat operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in your local business region. If you need assistance, please click on the ""Chat"" button at the bottom right corner of the website.",0.07017543859649122,0.03636363636363636,0.07017543859649122,0.0
+what do i need to do to get my invoices from {{Person Name}},get_invoice,"To obtain your invoices from {{Person Name}}, please confirm the shipping address on the order. Next, ask them to check with neighbors, household members, and safe drop-off spots if they cannot be found within 24 hours. If still missing, we will assist you in opening a carrier investigation and offering a replacement or refund according to our shipping delays and refund procedures.",0.03076923076923077,0.0,0.03076923076923077,0.0
+how can I check the ETA of the purchase {{Order Number}}?,track_order,"To check the Estimated Time of Arrival (ETA) for your purchase, you will need to use the tracking number provided when placing the order. This tracking number should be accessible through the order confirmation email or within the order details section of your account. 
+
+The tracking process typically takes approximately 24 hours from the moment a label is generated until the first scan appears on the tracking system. During this period, there may be no updates if the package is still being handled by the carrier but not yet ready for shipment.
+
+Once the first scan shows up, you'll receive more detailed information about the progress of",0.03636363636363636,0.0,0.03636363636363636,0.0
+help leaving feedback for your products,review,"To leave feedback for our products, please follow these steps:
+
+1. **Review Your Order**: Check if you have received the product as expected. Ensure that the item matches your description and specifications.
+
+2. **Check Condition**: Inspect the product carefully upon arrival. Look for any signs of damage, wear, or missing parts. If there are issues, take photos or videos to document them.
+
+3. **Contact Us**: Reach out to us via email or through our support system. Mention the issue(s) you're experiencing and attach any relevant documentation (photos/videos).
+
+4. **Provide Feedback**:",0.021276595744680854,0.0,0.021276595744680854,0.0
+can I check the shipment options?,delivery_options,"Yes, you can check the shipment options. Please note that we do not currently support checking shipment options directly through our system. However, if you need assistance with this, please let us know, and we will guide you accordingly.",0.048780487804878044,0.0,0.048780487804878044,0.0
+can you help me leave an opinion foor a product?,review,"I'm sorry, but I don't have the capability to post comments or opinions about products. My purpose is to assist customers with their inquiries related to our services. If you need assistance with anything else, please let me know how I can help.",0.0,0.0,0.0,0.0
+I try to see what hours customer service aailable is,contact_customer_service,"Customer service operating hours are as follows:
+
+- Monday to Friday: 08:00 - 20:00 (staffed)
+- Saturday and Sunday: 10:00 - 18:00 (self-service)
+
+Please note that email and ticket support are available 24/7 and will be responded to during staffed hours.",0.08695652173913045,0.04545454545454545,0.08695652173913045,0.0
+can I create a different bloody {{Account Type}} account for my father?,create_account,"The system you're referring to appears to be related to creating accounts for your father. However, as per the guidelines, we should avoid discussing personal matters such as family members' accounts. Please let me know if there's anything else I can assist with.",0.0851063829787234,0.044444444444444446,0.0851063829787234,0.0
+"I have to enter a new shipping address, how do I do it?",set_up_shipping_address,"To change the shipping address, please go through these steps:
+
+1. Locate your order by entering the order identifier and registered email into the system.
+2. Once you find the order, click on the ""Edit"" option to modify any details of the order.
+3. In the edit screen, navigate to the ""Shipping Address"" section.
+4. Update the shipping address by clicking on the ""Change Shipping Address"" button.
+5. Follow the prompts to confirm the changes and save them.
+
+After updating the shipping address, proceed to track the order again to ensure the new address is correctly set.",0.05940594059405941,0.0202020202020202,0.0396039603960396,0.0
+I need to check in which cases can I ask for a reimbursement,check_refund_policy,"The process you're referring to involves checking for discrepancies in your charges, such as unexpected charges, charges exceeding expectations, duplicate charges, or charges occurring after you believed a service had ended. This procedure aims to investigate the nature of the charge and determine if a refund is due based on the refund policy. The focus here is on identifying and resolving these issues through proper channels.",0.08571428571428572,0.029411764705882356,0.08571428571428572,0.0
+show cancellation charges,check_cancellation_fee,"The cancellation options do not include showing cancellation charges. The system allows you to choose between cancelling at the end of the current period, pausing the subscription, or stopping auto-renewal. If you need to see what will happen with your charges after cancellation, please contact our support team directly.",0.03773584905660377,0.0,0.03773584905660377,0.0
+need to create an {{Account Category}} account,create_account,"To create an {{Account Category}} account, please follow these steps:
+
+1. Go to the website where you want to create the account.
+2. Click on the ""Sign Up"" button or link.
+3. Fill out the required fields such as username, email address, password, and other necessary details.
+4. Review your personal information and click on the ""Create Account"" button.
+5. If prompted, enter two-factor authentication code if applicable.
+6. Once the account is created, log in with your new credentials.
+
+Please note that this process may vary slightly depending on the specific website or",0.041237113402061855,0.021052631578947368,0.041237113402061855,0.0
+i dont know how to change to the premium account,switch_account,"The premium account can be accessed through an upgrade process. Please go to your account settings and select ""Upgrade"" to switch to the premium account. If you have any questions or need assistance with this process, please reach out to our support team.",0.08888888888888888,0.0,0.08888888888888888,0.0
+how do I create a bloody {{Account Category}} account for my father?,create_account,"The process of creating an account for your father will depend on his personal details such as name, email address, phone number, etc. Please ensure you have these details ready before proceeding. Once you have them, you can use the sign-up feature on our website/app to create an account for him. If you need further assistance, please let me know.",0.0625,0.0,0.0625,0.0
+"I have to see my refund current status, will you help me?",track_refund,"Sure, I can assist with checking your refund status. Please confirm if you want to check it through our system or if you need assistance in contacting support directly.",0.06451612903225806,0.0,0.06451612903225806,0.0
+"I need to order several articles, can you help me?",place_order,"Of course! I'd be happy to assist you with ordering multiple items. Please provide your details such as the products you wish to purchase, quantities, and any specific requirements (e.g., delivery address). Once I have this information, I'll proceed to place your orders on your behalf.",0.07843137254901959,0.0,0.07843137254901959,0.0
+help seeing what shipping options you offer,delivery_options,"The Shipping Options section of our website offers various shipping methods including standard shipping, express shipping, and international shipping. Please note that the specific shipping options may vary depending on your location and the products you're purchasing. For more detailed information, please refer to the product page or contact us directly.",0.037037037037037035,0.0,0.037037037037037035,0.0
+"I ain't registered, I want to create a pro account",create_account,"Hello! Welcome to our platform. To proceed, please click on the ""Create Account"" button located on the homepage. This will take you through the registration process where you'll be asked to fill out some basic information such as your name, email, and password. Please ensure that you choose strong and unique passwords for added security. Once you've completed this step, we'll review your application and get back to you shortly. Thank you for choosing us!",0.05,0.025641025641025647,0.05,0.0
+wanna see how soon can i expect my parcel i need assistance,delivery_period,"To help you better, could you please provide me with your order identifier and the registered email? This will enable us to track your order and give you more accurate information about when you might receive your package.",0.0,0.0,0.0,0.0
+do you ship  to {{Delivery Country}}?,delivery_options,"I'm sorry, but I don't know which country you're asking about. Please specify the Delivery Country so I can help you better.",0.07407407407407407,0.0,0.07407407407407407,0.0
+I don't know how to change to the pro account,switch_account,Hello! I'm here to help you with your request. Could you please tell me if you have any questions about changing to the Pro Account?,0.07142857142857144,0.0,0.07142857142857144,0.0
+how can i get information about creating standard accounts,create_account,"To create a standard account, you will need to follow these steps:
+
+1. Verify your identity by providing proof of identification (such as a driver's license) and confirming your email address.
+2. Once verified, you'll receive a confirmation email containing instructions on how to proceed with setting up your account.
+3. Follow the link in the email to complete the registration process.
+4. After completing the registration, you should have full access to all features of the platform.",0.04878048780487806,0.0,0.04878048780487806,0.0
+show me purchase {{Order Number}} statud,track_order,"I'm sorry, but I don't have access to your personal data or transaction history. To check the status of your order, you should log into your account and go to the ""My Orders"" section where you will find detailed information about each order including its current status. If you need help navigating your account, please let me know, and I'll assist you further.",0.029411764705882356,0.0,0.029411764705882356,0.0
+is it plssible to order from {{Delivery Country}}?,delivery_options,"I'm sorry, but I don't see any specific country mentioned in your message. Could you please specify which country you're interested in ordering from?",0.0,0.0,0.0,0.0
+i can check the status of my company newsletter subscription,newsletter_subscription,The email or ticket support option allows you to check the status of your company newsletter subscription. Please allow up to one business day for a response.,0.13793103448275862,0.07407407407407407,0.13793103448275862,0.0
+how do i see at what time customer support availabl is,contact_customer_service,"Customer support operates from Monday to Friday, 08:00–20:00, and weekends 10:00–18:00, in the customer's local business region. You can check these operating hours directly on our website or through our mobile app for more detailed information.",0.04347826086956522,0.0,0.04347826086956522,0.0
+add article to order {{Order Number}},change_order,"To add an article to your order, please proceed as follows:
+
+1. Locate the order by its identifier and the registered email.
+2. Follow the steps outlined above to track the progress of your order.
+3. Once you receive the tracking number and carrier link, proceed to add the desired item(s) to your cart and complete the purchase process.
+
+Please note that this article is intended to assist you in adding items to your order, but it may not be applicable to all orders. Please refer to the specific instructions provided by your retailer for more detailed guidance.",0.019801980198019806,0.0,0.019801980198019806,0.0
+errors setting up a secondary shipping address,set_up_shipping_address,"The error message you're seeing suggests there was an issue when trying to set up a secondary shipping address. Here’s how we can help:
+
+### Step 1: Confirm the Shipping Address
+First, ensure that the correct shipping address is being used. You should be able to see this information clearly on your order details page. Double-check if the address matches what you've entered.
+
+### Step 2: Check Carrier Support
+Next, reach out to the carrier support team. They may need additional information such as the order ID, the date of the attempted shipment, and any specific instructions they might have",0.07547169811320754,0.038461538461538464,0.07547169811320754,0.0
+need to update my user information how can i do it,edit_account,"To update your personal information, you should follow these steps:
+
+1. Verify your identity by logging into your account and verifying your email address.
+2. Go to the ""My Account"" section of your account settings.
+3. Click on the ""Update Your Information"" option.
+4. Fill out the required fields with your new information.
+5. Save the changes.
+
+Please note that this process will require you to log in to your account first. If you're unable to access your account due to forgotten credentials, please contact our support team at [support@example.com] for assistance.",0.020618556701030927,0.0,0.020618556701030927,0.0
+assistance to recover the key of my user profile,recover_password,"The assistance you're seeking is related to recovering your account key, which seems to be part of an account recovery process. However, I'm unable to assist directly with such sensitive information. Please follow the steps outlined in the account recovery procedures to regain access to your account.",0.039215686274509796,0.0,0.039215686274509796,0.0
+can ya help me to see ur allowed payment methods,check_payment_methods,"Sure, I'd be happy to assist you. The store accepts major credit and debit cards, common digital wallets, and bank transfers for eligible regions. Gift cards and store credits can also be combined with one other payment method at checkout. Cash on delivery is not offered for online orders.",0.07547169811320754,0.039215686274509796,0.07547169811320754,0.0
+are the charges of ur services reimbursable,check_refund_policy,The charges you have received are not reimbursable under our current policies. Please ensure all transactions are accurately recorded and reported as required.,0.07692307692307691,0.0,0.07692307692307691,0.0
+i want assistance to change my delivery address,change_shipping_address,"To assist you in changing your delivery address, please follow these steps:
+
+1. Check if the address error was corrected by the carrier. You can do this by logging into your account and checking the order details. If the address is correct, proceed to the next step.
+
+2. Contact the carrier directly through the tracking link provided. Follow the instructions on how to correct the address.
+
+3. Once the address is updated, confirm the new address with the carrier again. This will ensure that the order is sent to the correct location.
+
+4. If the order is still not received within the expected timeframe (",0.037383177570093455,0.0,0.037383177570093455,0.0
+wqhere to obtain rebates of money,get_refund,"The refund policy you're referring to outlines how customers can receive a refund if they have issues with their purchases. However, it doesn't mention anything about obtaining rebates of money directly from the company. 
+
+To get rebates, you would need to check your account balance through the company's website or app, which shows any discounts or credits applied to your account. You might also want to contact customer support to inquire about specific rebate programs or promotions that the company offers. 
+
+Please note that this answer assumes that there is a company involved in the transaction, such as a retailer or service provider. If",0.03669724770642201,0.0,0.018348623853211007,0.0
+how can I locate the invoice #37777?,check_invoice,"To find the invoice #37777, you should check your email inbox for any invoices sent out during the last few months. You may also want to contact your support team directly as they might have access to such details. Please note that the specific steps required could vary depending on your company's internal procedures.",0.07017543859649122,0.0,0.07017543859649122,0.0
+help me reset my user profile password,recover_password,"Hello! To help you reset your password, please follow these steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Click on the ""Send reset email"" button.
+3. Check your inbox for the reset email. It should arrive within 60 minutes.
+4. Follow the instructions in the email to reset your password.
+
+Please ensure you have the correct email address associated with your account. If you're unsure about this, double-check the email address listed on your account settings. 
+
+If you encounter any issues during the process, feel free to reach out",0.020202020202020204,0.0,0.020202020202020204,0.0
+I need help opening a new goddamn gold account,create_account,"I'm sorry you're having trouble accessing your account. Could you please try resetting your password? You should be able to find this option on the login page by clicking on the ""Forgot password"" link. Please make sure to enter your correct email address when prompted. Once you click on the link, you will receive a temporary password that you can use to log back into your account. If you continue to have issues, please let me know so we can further assist you.",0.02298850574712644,0.0,0.02298850574712644,0.0
+I have to conract customer assistance,contact_customer_service,Sure! I'm here to assist you. Please let me know how I can help you today.,0.0,0.0,0.0,0.0
+purchase {{Order Number}} status,track_order,"To find the status of your purchase with Order Number {{Order Number}}, please follow these steps:
+
+1. Locate the order by entering the order identifier and the registered email into the system.
+2. Once you've located the order, you will be able to see the current state through the tracking number and carrier link provided.
+3. The order states include Processing (payment confirmed but not yet packed), Preparing to Ship (packed and awaiting carrier pickup), In Transit (carrier has the parcel), Out for Delivery (on the vehicle for delivery), Delivered (carrier marked the parcel delivered), and Exception (",0.039999999999999994,0.0,0.039999999999999994,0.0
+I want assistance seeing when my item is going to arrive,delivery_period,"To help you track your order, please provide us with the following details:
+
+1. Your order identifier (usually found at the top of your invoice or within the confirmation email).
+2. Your registered email address.
+
+Once we have this information, I will be able to provide you with the tracking number and carrier link. This should give you real-time updates on the progress of your shipment. Please note that it may take up to 24 hours for the tracking information to become active, but if there is no movement on the first day, it might indicate that the package was scanned too soon.",0.0,0.0,0.0,0.0
+i want help talking with an agent,contact_human_agent,Hello! I'm here to assist you. Please provide me with your issue details so we can get started on resolving it.,0.0,0.0,0.0,0.0
+I'm trying to report errors with signup,registration_problems,"Thank you for reporting your issue. Please follow these steps:
+
+1. **Capture the exact symptom**: Describe what happened during the signup process.
+2. **Record environment**: 
+   - App or browser version
+   - Operating system
+   - Device
+3. **Try the standard recovery sequence**:
+   - Update to the latest version of the app
+   - Restart the app
+   - Clear cache
+   - Retry on another network or device
+4. **Confirm whether the issue is account-specific or affects all users**:
+   - Check the status dashboard for a known incident.
+
+Please",0.0,0.0,0.0,0.0
+open another premium account for mum,create_account,"The SOP does not cover account creation or management. Please refer to the ""Account Access Policy"" section for guidance on how to handle this request.",0.07407407407407407,0.0,0.07407407407407407,0.0
+"I have to see my bill, help me",check_invoice,"Sure, I can assist you with viewing your bill. Please note that we cannot directly access your personal data or view your bills without proper authorization. However, if you're looking for general assistance with understanding your bill, such as identifying any unusual charges or discrepancies, I'd be happy to help guide you through the process. Would you like to proceed with checking your bill?",0.029411764705882356,0.0,0.029411764705882356,0.0
+where do I report an issue iwth sign-up?,registration_problems,"To report an issue with your sign-up process, please refer to the following steps:
+
+1. **Capture the exact symptom**: Describe what you're experiencing during the sign-up process.
+   
+2. **Record environment**: 
+   - **App or Browser Version**: Specify the version of the application or browser you're using.
+   - **Operating System**: Mention the operating system you're running.
+   - **Device**: Specify the type of device you're using.
+
+3. **Try the standard recovery sequence**:
+   - Update to the latest version of the app.
+   - Restart the app.",0.0,0.0,0.0,0.0
+can uhelp me canceling purchase {{Order Number}},cancel_order,"I'm sorry, but I am unable to assist with your cancellation request as you have not provided the Order Number. Please provide the Order Number so I can help you proceed with cancelling your purchase.",0.10526315789473684,0.0,0.10526315789473684,0.0
+how do I inform of a issue with a sign-up?,registration_problems,"To report an issue with your sign-up, please follow these steps:
+
+1. Log out from any existing accounts you may have.
+2. Go to the website where you're trying to create an account.
+3. Click on the ""Sign Up"" button or option.
+4. Fill out all required fields (username, email, password) as if you were creating a new account.
+5. When prompted to enter your email, make sure to type it exactly as it appears in your email inbox.
+6. After entering your email, click on the ""Sign Up"" button again.
+7. If",0.0,0.0,0.0,0.0
+help me checking what shipment methods I have,delivery_options,"To help you track your shipment, please provide us with the following details:
+
+1. Your order identifier (if known)
+2. Your registered email address
+
+Once we have this information, we will be able to provide you with the tracking number and carrier link. This should help you keep track of your shipment throughout the process.",0.0,0.0,0.0,0.0
+help to make a consumer reclamation against your business,complaint,"To assist you in making a consumer reclamation against our business, please follow these steps:
+
+1. **Identify the Charge**: Clearly state the date, amount, and descriptor of the charge you wish to reclaim. This information is crucial for us to understand the nature of the charge.
+
+2. **Match the Charge**: Determine if the charge relates to an order, subscription renewal, tax/shipping component, or a pre-authorization hold. Understanding where the charge falls into can help us determine the appropriate course of action.
+
+3. **Determine the Reason**: Based on the information gathered, decide whether",0.0,0.0,0.0,0.0
+I have problems entering a different shipping address,set_up_shipping_address,"To resolve this issue, please follow these steps:
+
+1. Check if you have already entered the new shipping address correctly in your account settings.
+2. Contact the carrier directly through their app or website to inform them of the change.
+3. Wait at least 24 hours from when you made the initial entry to ensure the carrier has updated their records.
+4. If the problem persists, consider opening a carrier inquiry to see if they can assist further.
+
+Once you've completed these steps, we will be able to track the progress of your shipment again. Please let us know if you need any assistance",0.05504587155963303,0.018691588785046728,0.03669724770642202,0.0
+I'm calling to lodge a claim against ur company,complaint,Hello! I understand you would like to lodge a claim against our company. Could you please provide me with more details about the specific charge you're referring to? This will help us better assist you. Thank you.,0.0,0.0,0.0,0.0
+i habe a problem with my pin retrieval,recover_password,Thank you for reaching out. Can you please confirm your name and address so we can proceed?,0.0,0.0,0.0,0.0
+help me cancel my subscriptiopn to ur newsletter,newsletter_subscription,"To assist you with cancelling your subscription to our newsletter, please follow these steps:
+
+1. Go to the website or app where you subscribed to our newsletter.
+2. Look for an ""Edit Subscription"" or ""Manage Subscriptions"" option.
+3. Select the option to cancel your subscription immediately.
+4. If prompted, confirm the cancellation and choose the effective date.
+5. Ensure that auto-renewal is disabled before proceeding.
+
+Please note that this process will stop all future subscriptions to our newsletter. If you have any questions or need further assistance, feel free to reach out to us.",0.041237113402061855,0.0,0.041237113402061855,0.0
+where could I inform of issues with payment?,payment_issue,"You can inform about issues with payments through your account settings. This allows you to update your preferred payment method and manage your payment preferences. If you encounter a failed payment or a declined transaction, you should check your account settings to see if there was an authorization hold or a charge problem. If these options do not resolve the issue, you may need to escalate it further according to the escalation matrix provided.",0.052631578947368425,0.0,0.052631578947368425,0.0
+edit info on {{Account Category}} account,edit_account,"The user wants to edit information on their ""Account Category"" account. However, there seems to be an issue with the template ""{{Account Category}}"" as it doesn't exist in the given SOP. Please clarify what you would like to achieve.",0.09523809523809523,0.0,0.09523809523809523,0.0
+I don't know how to reset the pwd of my user profile,recover_password,"To reset your password, please click on the ""Forgot password"" link on the sign-in page. This will send you a reset email to the registered email address associated with your account. The link is valid for 60 minutes and should be clicked within this time frame. Please allow a few minutes for the email to reach your inbox. If you have checked your spam folder and the email has not arrived yet, please ensure there are no filters blocking emails from our domain. If you're unable to find the email after clicking the link, please try again or contact support for further assistance.",0.01869158878504673,0.0,0.01869158878504673,0.0
+need assistance recovering the PIN code of my account,recover_password,"The SOP provides guidance on how to recover an account if you're locked out or have forgotten your password. However, it doesn't specifically cover how to retrieve the PIN code. 
+
+To proceed, we need to follow these steps:
+
+1. **Verify Identity**: We should first ensure that the account is indeed yours by verifying the email address associated with the account. This can be done by asking for proof of identity such as a utility bill or bank statement sent to the same email address.
+
+2. **Unlock Account**: Once the identity is verified, we will unlock the account. The account will remain locked",0.03773584905660378,0.0,0.03773584905660378,0.0
+I have troubles editing the address,change_shipping_address,"It seems you're having trouble accessing your account. Could you please try logging out and then trying again? Also, make sure you're entering the correct email address.",0.0625,0.0,0.0625,0.0
+help checking the withdrawal penalties,check_cancellation_fee,"I'm sorry, but I don't have enough information about your account to check the withdrawal penalties. Please try contacting our support team directly for assistance.",0.06666666666666667,0.0,0.06666666666666667,0.0
+i cannot see if there is anything new on my refund,track_refund,"The current refund process allows you to check your order details and ensure that the correct refund has been applied. You should have received a notification with the expected timeline once the refund was processed. Please verify these steps:
+
+1. **Order Identifier**: Ensure you have the correct order number and date.
+2. **Item Condition**: Confirm whether the item is still defective or if it has been used.
+3. **Refund Reason**: Make sure the reason for the refund matches what you requested (e.g., return due to defect).
+
+If you're unable to find any updates after following these steps, please contact",0.019417475728155338,0.0,0.019417475728155338,0.0
+I don't know what I have to do to earn a few of your item,place_order,"The SOP states that if you want to exchange an item, you need to create a new order on hold until the returned item has been scanned by the carrier. This means you will need to wait for the carrier to scan the returned item before proceeding with the exchange. If you're unsure about how to proceed, please check the ""Exchanges"" section in the SOP for more details.",0.028169014084507046,0.0,0.028169014084507046,0.0
+help me check in what cases can I ask to be refunded,check_refund_policy,"According to the refund policy, you can request a refund if the product is damaged, faulty, or incorrect upon delivery. You also have the option to return the item for a refund if you decide against purchasing it again.",0.09523809523809523,0.05,0.09523809523809523,0.0
+filing consumer claim against your business,complaint,"I'm sorry, but I cannot assist with filing a consumer claim against your business. This falls outside of my scope as a customer support assistant. Please reach out to your local authorities or legal representatives for assistance.",0.0,0.0,0.0,0.0
+could you help me talking with customer assistance?,contact_customer_service,Certainly! I'm here to assist you. Please go ahead and start your conversation.,0.0,0.0,0.0,0.0
+how can I send some feedback about a product?,review,"To send feedback about a product, you can use the following steps:
+
+1. **Verify the Order**: Ensure that your order has been received and confirm its status. You might need to check your account settings or contact support if needed.
+
+2. **Select the Correct Return Method**: Depending on the type of feedback (e.g., product quality issues, delivery problems), choose the appropriate return method. If you're providing feedback on a specific issue related to the product itself, you might want to consider sending a review through the app or website directly.
+
+3. **Send the Label and Clear Instructions**: Once",0.019801980198019802,0.0,0.019801980198019802,0.0018429002880824543
+I cannot recover my pwd,recover_password,"It seems you're having trouble recovering your password. Please try the following steps:
+
+1. Go to the ""Forgot password"" link on the sign-in page.
+2. Follow the instructions to reset your password.
+3. Check your inbox for the reset email.
+4. Click on the link to reset your password.
+
+If you don't receive the reset email, please double-check the spelling of your email address and ensure it hasn't been changed. Also, make sure you haven't moved your email address to another mailbox service. If these checks fail, we may need to escalate this issue to account recovery",0.03809523809523809,0.0,0.03809523809523809,0.0
+see order {{Order Number}} current status,track_order,"To see the current status of your order {{Order Number}}, please use the following steps:
+
+1. Locate the order by its identifier and the registered email.
+2. Follow these instructions: 
+   - Find the tracking number and carrier link.
+   - Track the order through the carrier's system.
+   
+The order will be updated every hour until you receive a message indicating that the package has been delivered. Please note that this process may take up to 24 hours from when the order was placed. 
+
+Once you've received the tracking information, we recommend checking the order status at least once daily to",0.03960396039603961,0.0,0.03960396039603961,0.0
+what do i need to do to talk to someone,contact_human_agent,"To speak with a representative, you can use live chat, email, or submit a ticket. The live chat option provides an initial response within two minutes during regular working hours. For other options, expect a response within one business day for emails/tickets and five minutes on average for calls during regular working hours. If you have a critical issue like fraud or an account takeover, it will be handled immediately upon confirmation. Always check your local time zone to ensure accurate communication.",0.0,0.0,0.0,0.0
+is there a way to submit bloody feedback for a product?,review,The SOP does not mention submitting feedback for products. Feedback submission is not covered under this policy.,0.0,0.0,0.0,0.0
+use platinum account,switch_account,"To use the Platinum account, please log into your account through the app or website as usual. Once logged in, navigate to the settings section where you will find an option labeled ""Account Type"" or similar. Select ""Platinum"" from the dropdown menu. This should activate the benefits of the Platinum account. If you encounter any issues during this process, feel free to reach out to our support team with the details of your account type change.",0.025641025641025637,0.0,0.025641025641025637,0.0

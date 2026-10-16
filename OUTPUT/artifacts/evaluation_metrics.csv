@@ -1,0 +1,4 @@
+metric,baseline,rag
+functional_correctness,95.0,75.0
+consistency,100.0,100.0
+hallucination_frequency,0.0,0.0

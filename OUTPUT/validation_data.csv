@@ -1,0 +1,2731 @@
+instruction,intent,category,text
+could you help me to create a {{Account Type}} account for my fiance?,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+could you help me to create a {{Account Type}} account for my fiance?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I can't pay, assistance notifying of an issue with payment",payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I can't pay, assistance notifying of an issue with payment<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I do not know how to retrieve my key,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how to retrieve my key<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+is there an address to leave an opinion ?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is there an address to leave an opinion ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+wanna see the eta of order {{Order Number}} how can i do it,track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wanna see the eta of order {{Order Number}} how can i do it<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I do not know how I could create a standard account,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I could create a standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can uhelp me to call customre assistance,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can uhelp me to call customre assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+see my blls from {{Person Name}},check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+see my blls from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+change to the {{Account Category}} account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+change to the {{Account Category}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+help me requesting a bloody compensation,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me requesting a bloody compensation<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+how could i change to the {{Account Type}} account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how could i change to the {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I want helpto see your refund policy,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want helpto see your refund policy<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+"I do not want my freemium account, assistance canceling it",delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not want my freemium account, assistance canceling it<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+help me check at what time I can reach customer service,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me check at what time I can reach customer service<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+i missed a fucking product in purchase {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i missed a fucking product in purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I need assistance to create a {{Account Category}} account,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance to create a {{Account Category}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I don't know how to check the early termination penalty,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know how to check the early termination penalty<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+assistance  to report issues with payment,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance  to report issues with payment<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+could you tell me about shipping periods?,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+could you tell me about shipping periods?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+help seeing in what situations can I ask to be refunded,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help seeing in what situations can I ask to be refunded<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+want help filing a cudtomer claim against ur organization,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help filing a cudtomer claim against ur organization<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+where to check what payment options are accepted?,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where to check what payment options are accepted?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+ur refund policy,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+ur refund policy<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+i do notknow what i have to do to get the bill #85632,get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do notknow what i have to do to get the bill #85632<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I have to inform of issues with a registration,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to inform of issues with a registration<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need help seeing the termination fees,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help seeing the termination fees<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+"I want to report errors with payment, can I get some help?",payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to report errors with payment, can I get some help?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+i want information about my password retrieval,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i want information about my password retrieval<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+makepurchase,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+makepurchase<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i need assistance creating a platinum account,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need assistance creating a platinum account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+how to check at what time i can reach customer assistance,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to check at what time i can reach customer assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+is there a section to leave an opinion about a service?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is there a section to leave an opinion about a service?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I want help to ask for my money back,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want help to ask for my money back<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+I am trying to check the accepted payment modalities,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am trying to check the accepted payment modalities<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+"I have to receive the corporate newsletter, how to do it?",newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to receive the corporate newsletter, how to do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+i need help to add several product to order {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need help to add several product to order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+"I have to see order {{Order Number}} status, I need assistance",track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to see order {{Order Number}} status, I need assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+help  me reporting a sign-up problem,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help  me reporting a sign-up problem<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+another premium account for father,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+another premium account for father<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I want to see my invoice #37777, I need assistance",check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to see my invoice #37777, I need assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I do not know how to acquire a few of your product,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how to acquire a few of your product<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i have an issue setting an different shipping address up,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have an issue setting an different shipping address up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I need help to see your reimbursement policy,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help to see your reimbursement policy<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+how can I talk with a human agent?,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how can I talk with a human agent?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+"I cannot afford order {{Order Number}}, I need help canceling it",cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I cannot afford order {{Order Number}}, I need help canceling it<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I don't know how to make a claim,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know how to make a claim<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I do not know what I have to do to reset my user PIN code,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know what I have to do to reset my user PIN code<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need assistance requesting a restitution of money,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance requesting a restitution of money<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+is it possibleto place an order from {{Delivery City}},delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is it possibleto place an order from {{Delivery City}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+there is an issue setting up a shipping address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there is an issue setting up a shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+update details on pro account,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+update details on pro account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I do not know how I can leave my feedback for your services,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I can leave my feedback for your services<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+"the experience with you was awful, file a customer complaint",complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+the experience with you was awful, file a customer complaint<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+"I want to see how soon can I expect my parcel, how to do it?",delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to see how soon can I expect my parcel, how to do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+i dont know how  to change my address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i dont know how  to change my address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+can I check order {{Order Number}} current status?,track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I check order {{Order Number}} current status?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+help me to make a customer reclamation against your company,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me to make a customer reclamation against your company<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+"I paid {{Currency Symbol}}{{Refund Amount}} for a product, I want to obtain a fucking rebate",get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I paid {{Currency Symbol}}{{Refund Amount}} for a product, I want to obtain a fucking rebate<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+wanna know more about the shipping periods,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wanna know more about the shipping periods<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I don't know how I could modify my address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know how I could modify my address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+could utell me more abouut creating a {{Account Type}} account,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+could utell me more abouut creating a {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can you help me talking with customer assistance?,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me talking with customer assistance?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+I need assistance to check the early termination fee,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance to check the early termination fee<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+help me check what hours i can call customer assistancr,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me check what hours i can call customer assistancr<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+problem with {{Account Category}} account terminations,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+problem with {{Account Category}} account terminations<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I have to list the payment options, I need assistance",check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to list the payment options, I need assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I'm waiting for a refund of {{Currency Symbol}}{{Refund Amount}},track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I'm waiting for a refund of {{Currency Symbol}}{{Refund Amount}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+get bills from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+get bills from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+deliveries to {{Delivery City}},delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+deliveries to {{Delivery City}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+what do I have to do to cancel a premium account?,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what do I have to do to cancel a premium account?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I am waiting for a rebate of {{Refund Amount}} dollars,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am waiting for a rebate of {{Refund Amount}} dollars<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+I am trying to unsubscribe from your company newsletter,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am trying to unsubscribe from your company newsletter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+want help checking the allowed payment methods,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help checking the allowed payment methods<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+want assistance to leave an opinion about a service,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want assistance to leave an opinion about a service<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+"I have to check the shipping options, will you help me?",delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to check the shipping options, will you help me?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+contact live agent,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+contact live agent<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+"I need to get my bill from {{Person Name}}, could you help me?",get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to get my bill from {{Person Name}}, could you help me?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+there is an issue entering my delivery address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there is an issue entering my delivery address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I need help contacting a human agent,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help contacting a human agent<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+i have got to remove an item from order {{Order Number}} help me,change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have got to remove an item from order {{Order Number}} help me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+can ya direct to me an assistant,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can ya direct to me an assistant<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+i do not know how i could report signup issues,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know how i could report signup issues<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i need supports trying to modify my delivery address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need supports trying to modify my delivery address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+can I change to the {{Account Type}} account?,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I change to the {{Account Type}} account?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+is there an e-mail to submit feedback for your company?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is there an e-mail to submit feedback for your company?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I don't know how to submit a delivery address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know how to submit a delivery address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+"I have to submit my new delivery address, will you help me?",set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to submit my new delivery address, will you help me?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+how do i sign up to thhe corporate newsletter,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how do i sign up to thhe corporate newsletter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+"I have got to check your money back guarantee, how to do it?",check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to check your money back guarantee, how to do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+updating user profile,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+updating user profile<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+want help to see your reimbursement policy,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help to see your reimbursement policy<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+what do I need to do to see what delivery options you offer?,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what do I need to do to see what delivery options you offer?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I need help getting in touch with customer assistance,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help getting in touch with customer assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+I don't know what to do to delete my {{Account Type}} account,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know what to do to delete my {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+where to see how long it takes for the item to arrive?,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where to see how long it takes for the item to arrive?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+wannadownload the invoice from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wannadownload the invoice from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+want assistance opening a standard account,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want assistance opening a standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i paid {{Refund Amount}} dollars for an article how can i obtain a rebate,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i paid {{Refund Amount}} dollars for an article how can i obtain a rebate<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+I want help checking the restitution current status,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want help checking the restitution current status<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+can ya show me at what time customer service available is,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can ya show me at what time customer service available is<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+I have a trouble setting the secondaru shipping address up,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have a trouble setting the secondaru shipping address up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I need assistance changing the user information,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance changing the user information<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+how do I write a comment about your services?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how do I write a comment about your services?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I do not know what to do to speak to an agent,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know what to do to speak to an agent<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+could you help me cancelling order {{Order Number}} ?,cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+could you help me cancelling order {{Order Number}} ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i cannot see the eta of order {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i cannot see the eta of order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+what do I have to do to set up the new shipping addeess?,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what do I have to do to set up the new shipping addeess?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+is there an address to send a review?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is there an address to send a review?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+wanna talk with customer assistance,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wanna talk with customer assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+help to reset my user account pin,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help to reset my user account pin<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I have to edit some of my user details, how to do it?",edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to edit some of my user details, how to do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+shipnents to {{Delivery Country}},delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+shipnents to {{Delivery Country}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+how can i notify of errors with a sign-up,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how can i notify of errors with a sign-up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I have issues correcting the address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have issues correcting the address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+lodge consumer reclamation,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+lodge consumer reclamation<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+where can I see what payment methods are accepted?,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where can I see what payment methods are accepted?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+i dontknow how to get the invoice #12588,get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i dontknow how to get the invoice #12588<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+i want help sending some feedback about a product,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i want help sending some feedback about a product<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I am calling to see what delivery methods you offer,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am calling to see what delivery methods you offer<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+i need help to see at what time i can call  customer support,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need help to see at what time i can call  customer support<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+help me informing of an issue with payment,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me informing of an issue with payment<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+need to check the withdrawal penalty will uhelp me,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need to check the withdrawal penalty will uhelp me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+help me make a customer complaint against your business,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me make a customer complaint against your business<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+can I check the bills from {{Person Name}}?,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I check the bills from {{Person Name}}?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I'm trying to recover the pwd of my use,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I'm trying to recover the pwd of my use<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need help leaving feedback about your products,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help leaving feedback about your products<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+want help to see the termination charge,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help to see the termination charge<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+I need to check what damn delivery methods are available,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to check what damn delivery methods are available<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I do not know what I have to do to delete a gold account,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know what I have to do to delete a gold account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+assistance informing of problems with registrations,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance informing of problems with registrations<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i do not know how to cancel order {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know how to cancel order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+is it possible to shop an item,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is it possible to shop an item<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+help me seeing if there are any news on my reimbursement,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me seeing if there are any news on my reimbursement<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+I want to correct my user info,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to correct my user info<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I don't know how to locate the invoice #85632,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know how to locate the invoice #85632<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+"I need to check my bill #12588, could you help me?",check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to check my bill #12588, could you help me?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+help to check your damn money back guarantee,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help to check your damn money back guarantee<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+i do not know how to create a {{Account Category}} account for my dad,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know how to create a {{Account Category}} account for my dad<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i want help to get my invoice from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i want help to get my invoice from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+is it possible to speak to someone ?,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is it possible to speak to someone ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+there are errors submitting the new shipping address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there are errors submitting the new shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I need assistance to reset the pass of my profile,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance to reset the pass of my profile<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i dont know how to cncel purchase {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i dont know how to cncel purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+cn I place an order from {{Delivery City}}?,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+cn I place an order from {{Delivery City}}?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+how to see if there is anything wrong with the restitution?,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to see if there is anything wrong with the restitution?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+want help to see ur allowedpayment modalities,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help to see ur allowedpayment modalities<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+how can i lodge a cuxtomer complaint against ur organization,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how can i lodge a cuxtomer complaint against ur organization<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I want assistance chatting with someone,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want assistance chatting with someone<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+assistance to demand a rebate,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance to demand a rebate<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+tell me about a delivery address update,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+tell me about a delivery address update<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+"I have got to use the {{Account Type}} profile, I need help",switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to use the {{Account Type}} profile, I need help<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I want help reporting payment problems,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want help reporting payment problems<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+how to contact a human agent,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to contact a human agent<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+can I check in what cases can I request the damn refunds?,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I check in what cases can I request the damn refunds?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+i have a probelm with the password retrieval,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have a probelm with the password retrieval<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+how to send some feedback about your company?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to send some feedback about your company?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+can udirect ot me somebody,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can udirect ot me somebody<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+"I don't use the goddamn gold account, I want to delete it",delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't use the goddamn gold account, I want to delete it<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+how to modify order {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to modify order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+add some products to order {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+add some products to order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I have an issue submitting a shipping address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have an issue submitting a shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+i expect a refund of {{Refund Amount}} dollars has it been processed,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i expect a refund of {{Refund Amount}} dollars has it been processed<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+i do not know how to report a trouble with online payments,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know how to report a trouble with online payments<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I do not know how to see when will my product arrive,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how to see when will my product arrive<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+can you help me restore my profile pass ?,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me restore my profile pass ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+wanna set the shipping address up,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wanna set the shipping address up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+editing data on {{Account Type}} account,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+editing data on {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+need assistance to speak with somebody,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need assistance to speak with somebody<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+need help to check what methods for delivery i have,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need help to check what methods for delivery i have<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I have got to see how soon can I expect my article,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to see how soon can I expect my article<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+can you help me to check how soon can I expect my item?,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me to check how soon can I expect my item?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I want assistance to update the information on my profile,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want assistance to update the information on my profile<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I do not know how to see the status of purchase {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how to see the status of purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i do not know what to do to contact a human agent,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know what to do to contact a human agent<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+want help to check the accepted payment options,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help to check the accepted payment options<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+"I want to check how long the shipment taes, how can I do it?",delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to check how long the shipment taes, how can I do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+"I paid {{Currency Symbol}}{{Refund Amount}} for these items, where can I receive a refund?",get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I paid {{Currency Symbol}}{{Refund Amount}} for these items, where can I receive a refund?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+help changing to the standard account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help changing to the standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+modifying information on {{Account Type}} account,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+modifying information on {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+modify info on {{Account Category}} account,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+modify info on {{Account Category}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+how do I update my delivery address?,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how do I update my delivery address?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+see early exit penalty,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+see early exit penalty<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+there is an error trying to update my shipping address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there is an error trying to update my shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I want help contacting a person,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want help contacting a person<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+help me to speak with a live agent,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me to speak with a live agent<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+I don't know what I need to do to check bill #37777,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know what I need to do to check bill #37777<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I need assistance to open a {{Account Type}} account for my dad,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance to open a {{Account Type}} account for my dad<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+help me to use the premium account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me to use the premium account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I try to see whne will my item arrive,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I try to see whne will my item arrive<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I have to find the bills from {{Person Name}},check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to find the bills from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+how to see when will my purchase arrive?,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to see when will my purchase arrive?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+using premium account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+using premium account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I want to see your money back guarantee, how could I do it?",check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to see your money back guarantee, how could I do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+can you help me to cancel order {{Order Number}}?,cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me to cancel order {{Order Number}}?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+changkng to {{Account Type}} account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+changkng to {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i try to check what paymnt payment modalities ya accept,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i try to check what paymnt payment modalities ya accept<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I can't delete some products from order {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I can't delete some products from order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I want to know more about opening {{Account Category}} accounts,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to know more about opening {{Account Category}} accounts<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i have to check the shipment methods i need assistance,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have to check the shipment methods i need assistance<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I have an issue trying to correct my delivery address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have an issue trying to correct my delivery address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+need help shopping a few of ur item,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need help shopping a few of ur item<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i call to check how long it takes for my delivery to arrive,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i call to check how long it takes for my delivery to arrive<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I do not know what I need to do to download the bill #85632,get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know what I need to do to download the bill #85632<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I do not know what to do to locate invoice #00108,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know what to do to locate invoice #00108<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I have to notify of issues with a signup,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to notify of issues with a signup<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I want help solving a problem with online payment,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want help solving a problem with online payment<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+assistance seeing the invoices from {{Person Name}},check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance seeing the invoices from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I am trying to retrieve the key of my user account,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am trying to retrieve the key of my user account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I have got to inform of an issue with online payments,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to inform of an issue with online payments<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I can no longer pay for order {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I can no longer pay for order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+can you help me make a complaint against your company?,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me make a complaint against your company?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+i have a question about the cancellation of my {{Account Type}} account,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have a question about the cancellation of my {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can ya help me checking the withrawal fee,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can ya help me checking the withrawal fee<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+need help to see the status of my refund,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need help to see the status of my refund<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+assistance to shop some products,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance to shop some products<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I do not know how I can cancel the standard acconut,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I can cancel the standard acconut<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I need to acquire some of your item, help me",place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to acquire some of your item, help me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i dont know what to do to get the invoice #00108,get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i dont know what to do to get the invoice #00108<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I need help retrieving my account access key,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help retrieving my account access key<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need help to check purchase {{Order Number}} current status,track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help to check purchase {{Order Number}} current status<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+how to change to the {{Account Category}} account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to change to the {{Account Category}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+help me signing up to your corporate newsletter,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me signing up to your corporate newsletter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+I want to know more about creating a standard account,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to know more about creating a standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+want help making a claim against ur organization,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help making a claim against ur organization<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+how can i give a quick look at my bills from {{Person Name}},check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how can i give a quick look at my bills from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I don't know how I can write a comment for  a product,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know how I can write a comment for  a product<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+i have got to locate my bill #00108 how can i do it,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have got to locate my bill #00108 how can i do it<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+need assistance to get the invoices from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need assistance to get the invoices from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+correct data on standard account,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+correct data on standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can I delete a damn article from order {{Order Number}}?,change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I delete a damn article from order {{Order Number}}?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+could I check the goddamn status of the refund?,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+could I check the goddamn status of the refund?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+I need information about a delivery address update,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need information about a delivery address update<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+how could I check the early termination charges?,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how could I check the early termination charges?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+how to submit my feedback about your company?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to submit my feedback about your company?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+i have an problem with the pass recovery,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have an problem with the pass recovery<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I want to check in which cases can I request reimbursements,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to check in which cases can I request reimbursements<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+I do not know how I can get my invoice from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I can get my invoice from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+i need help to add something to order {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need help to add something to order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I don't know what to do to see the methods for shipping,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I don't know what to do to see the methods for shipping<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+I do not know how to track order {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how to track order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I'm waiting for a reimbursement of {{Refund Amount}} dollars,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I'm waiting for a reimbursement of {{Refund Amount}} dollars<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+i do not know what to do to report a trouble with payment,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know what to do to report a trouble with payment<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+what do i need to do to change to the {{Account Type}} account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what do i need to do to change to the {{Account Type}} account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can i see what hours customer support availabl is,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can i see what hours customer support availabl is<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+i want assistance to download the bill from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i want assistance to download the bill from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+how could I use the {{Account Type}} profile?,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how could I use the {{Account Type}} profile?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I try to delete an product from purchase {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I try to delete an product from purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+how could I get in touch with customer support?,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how could I get in touch with customer support?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+get invoices from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+get invoices from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+can you tell me more about modifying my shipping address?,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you tell me more about modifying my shipping address?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}},track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+i need help changing a product of purchase {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need help changing a product of purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i have paid {{Currency Symbol}}{{Refund Amount}} for an order I'm trying to obtain a refund,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have paid {{Currency Symbol}}{{Refund Amount}} for an order I'm trying to obtain a refund<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+I try to see purchase {{Order Number}} current status,track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I try to see purchase {{Order Number}} current status<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i dont know how i can acquire some of ur item,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i dont know how i can acquire some of ur item<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i want assistance to shop a product,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i want assistance to shop a product<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+when will i obtain my rdbate of money,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+when will i obtain my rdbate of money<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+i try to send feedback about ur services,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i try to send feedback about ur services<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+i have problems with canceling order {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have problems with canceling order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I want assistance canceling purchase {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want assistance canceling purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i try to check the shipment options,delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i try to check the shipment options<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+where to report an error with payments?,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where to report an error with payments?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+help to see order {{Order Number}} current status,track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help to see order {{Order Number}} current status<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+could you help me modify the bloody data on my profile?,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+could you help me modify the bloody data on my profile?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need help resetting the keyof my user profile,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help resetting the keyof my user profile<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I  don't know what to do to correct my address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I  don't know what to do to correct my address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+help to delete something from order {{Order Number}},change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help to delete something from order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i do not know what to do to shop several of ur item,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know what to do to shop several of ur item<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I try to notify of a sign-up error,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I try to notify of a sign-up error<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i need help to see what hours customer support azvailable is,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need help to see what hours customer support azvailable is<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+"I need to change to the pro account, how can I do it?",switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to change to the pro account, how can I do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I have to check what delivery methods I can choose, help me",delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to check what delivery methods I can choose, help me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+can I unsubscribe to your corporate newsletter?,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I unsubscribe to your corporate newsletter?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+make customer claim against your organization,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+make customer claim against your organization<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I need assistance informing of sign-up problems,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance informing of sign-up problems<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need to cancle my corporate newsletter subscription,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to cancle my corporate newsletter subscription<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+there is an issue trying to change my shipping address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there is an issue trying to change my shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+need to report an issue with signup,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need to report an issue with signup<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+where to check the withdrawal penalty?,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where to check the withdrawal penalty?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+can uhelp me to make a complaint againsy ur business,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can uhelp me to make a complaint againsy ur business<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I have got to give a quick look at my bills from {{Person Name}},check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to give a quick look at my bills from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+where can i obtain a compensation of money,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where can i obtain a compensation of money<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+"I have got to edit my damn user, could I get some help?",edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to edit my damn user, could I get some help?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I do not know how to contact customer service,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how to contact customer service<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+help checking the early termination penalty,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help checking the early termination penalty<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+i have an issue with my signup,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have an issue with my signup<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can you help me shopping some items?,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me shopping some items?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I need to see the available payment modalities,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to see the available payment modalities<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+need assistance to download my bill #00108,get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need assistance to download my bill #00108<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+I do not know how I can check the status of my compensation,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I can check the status of my compensation<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+do you have a way to submit a review for your services ?,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+do you have a way to submit a review for your services ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+can uhelp me check the bloody early termination charge,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can uhelp me check the bloody early termination charge<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+"I need to change an item of purchase {{Order Number}}, help me",change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to change an item of purchase {{Order Number}}, help me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+wanna ask for a compensatin of money,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wanna ask for a compensatin of money<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+i need help to submit my feedback for a service,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need help to submit my feedback for a service<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+I am waiting for an restitution of {{Refund Amount}} dollars,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am waiting for an restitution of {{Refund Amount}} dollars<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+can I delete some articles from order {{Order Number}}?,change_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I delete some articles from order {{Order Number}}?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_order"", ""category"": ""ORDER""}<|im_end|>
+"
+how do I remove a pro account?,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how do I remove a pro account?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I need to check your reimbursement policy , help me",check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to check your reimbursement policy , help me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+I have a question about canceling order {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have a question about canceling order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+can uhelp me to order some of ur item,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can uhelp me to order some of ur item<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i watn help to set my delivery address up,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i watn help to set my delivery address up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+"I want to get in touch with customer assistance, I need help",contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to get in touch with customer assistance, I need help<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+seeing bill from {{Person Name}},check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+seeing bill from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+opening new standard account for daughter,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+opening new standard account for daughter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+wanna check uf refund policy,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+wanna check uf refund policy<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+where can i get information about opening pro accounts,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where can i get information about opening pro accounts<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+where do I inform of an issue with a signup?,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where do I inform of an issue with a signup?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+what is the shpiping period?,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what is the shpiping period?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+what do I need to do to earn some items?,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what do I need to do to earn some items?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I need hdlp to submit my feedback for a product,review,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need hdlp to submit my feedback for a product<|im_end|>
+<|im_start|>assistant
+{""intent"": ""review"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+is it possible to cancel order {{Order Number}} ?,cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is it possible to cancel order {{Order Number}} ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+i need assistance to locate purchase {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i need assistance to locate purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+d uship to {{Delivery City}},delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+d uship to {{Delivery City}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+open freemium account for wife,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+open freemium account for wife<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+there is a problem setting up my delivery address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there is a problem setting up my delivery address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+want help lodging a customer claim against your organization,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help lodging a customer claim against your organization<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+is it possible to receive reimbursements?,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+is it possible to receive reimbursements?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+"I need to see the cancellation fee, can you help me?",check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to see the cancellation fee, can you help me?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+how can i demand refunds,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how can i demand refunds<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+assistance to talk to customer support,contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance to talk to customer support<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+see restitution current status,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+see restitution current status<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+where could I check the current status of the compensation?,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where could I check the current status of the compensation?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+can ya help me to notify of an error with online payment,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can ya help me to notify of an error with online payment<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I cannot check the ETA of the order {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I cannot check the ETA of the order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+show me your payment options,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+show me your payment options<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+need help reporting an error with payments,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need help reporting an error with payments<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+"I have got to see the delivery methods, can I get some help?",delivery_options,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have got to see the delivery methods, can I get some help?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_options"", ""category"": ""DELIVERY""}<|im_end|>
+"
+what do i have to do to talk with an operator,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+what do i have to do to talk with an operator<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+where to shop some of ur item,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where to shop some of ur item<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+how to speak with somebody ?,contact_human_agent,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to speak with somebody ?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_human_agent"", ""category"": ""CONTACT""}<|im_end|>
+"
+where to check your payment modalities?,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where to check your payment modalities?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+i want assistance to see the compensation current status,track_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i want assistance to see the compensation current status<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+help making a consumer claim against your organization,complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help making a consumer claim against your organization<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+can you give me information about receiving your newsletter?,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you give me information about receiving your newsletter?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+"I have entered a wrong shipping address, I want to modify it",change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have entered a wrong shipping address, I want to modify it<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+changkng to platinum account,switch_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+changkng to platinum account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""switch_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I do not know what to do to remove my standard account,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know what to do to remove my standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I do not know how I can sign up to the corporate newsletter,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I can sign up to the corporate newsletter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+need help regadring my sign-up,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need help regadring my sign-up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I want to submit my secondary shipping address, help me",set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to submit my secondary shipping address, help me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+where can I buy some of your article?,place_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+where can I buy some of your article?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""place_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I have issues entering a new shipping address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have issues entering a new shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+i have got to ceck ur money back guarantee i need help,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have got to ceck ur money back guarantee i need help<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+I want to see the status of order {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to see the status of order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+want help to retrieve my pin,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help to retrieve my pin<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I want to get the bill #85632, I need help",get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I want to get the bill #85632, I need help<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+how to unsubscribe from ur company newsletter,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to unsubscribe from ur company newsletter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+can I see how long the shipping takes?,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I see how long the shipping takes?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+"I am not happy with your work, I need help making a claim",complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I am not happy with your work, I need help making a claim<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+can I see the accepted payment modalities?,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can I see the accepted payment modalities?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I need help checking the biol #37777,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help checking the biol #37777<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+why I cannot enter the delivery address valid,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+why I cannot enter the delivery address valid<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+assistance to get my bills from {{Person Name}},get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+assistance to get my bills from {{Person Name}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+i do not know how i can edit the personal details,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know how i can edit the personal details<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+"I can't open an account, where do I report a signup issue?",registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I can't open an account, where do I report a signup issue?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+i have to cancel my subscription to ur newsletter,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have to cancel my subscription to ur newsletter<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+"my experience with your company was awful, file a complaint",complaint,FEEDBACK,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+my experience with your company was awful, file a complaint<|im_end|>
+<|im_start|>assistant
+{""intent"": ""complaint"", ""category"": ""FEEDBACK""}<|im_end|>
+"
+help me notifying of an error with a sign-up,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help me notifying of an error with a sign-up<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+can you help me subscribing to your corporate newsletter?,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+can you help me subscribing to your corporate newsletter?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+how to get bill #12588,get_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to get bill #12588<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+i have paid {{Currency Symbol}}{{Refund Amount}} for this item help me to receive a refund,get_refund,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i have paid {{Currency Symbol}}{{Refund Amount}} for this item help me to receive a refund<|im_end|>
+<|im_start|>assistant
+{""intent"": ""get_refund"", ""category"": ""REFUND""}<|im_end|>
+"
+i do not know what to do to look for thebill #00108,check_invoice,INVOICE,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know what to do to look for thebill #00108<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_invoice"", ""category"": ""INVOICE""}<|im_end|>
+"
+i cannot pay want help to report errors with payments,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i cannot pay want help to report errors with payments<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+i do not know how i can report a registration problem,registration_problems,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i do not know how i can report a registration problem<|im_end|>
+<|im_start|>assistant
+{""intent"": ""registration_problems"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I have to notify of a payment error,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to notify of a payment error<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+"I need to contact customer service, hoow can I do it?",contact_customer_service,CONTACT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need to contact customer service, hoow can I do it?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""contact_customer_service"", ""category"": ""CONTACT""}<|im_end|>
+"
+delete standard account,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+delete standard account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+help cancelling my corporate newslettersubscription,newsletter_subscription,SUBSCRIPTION,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+help cancelling my corporate newslettersubscription<|im_end|>
+<|im_start|>assistant
+{""intent"": ""newsletter_subscription"", ""category"": ""SUBSCRIPTION""}<|im_end|>
+"
+i aint registered yet could i open a pro account withyou,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+i aint registered yet could i open a pro account withyou<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I have an issue editing the shipping address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have an issue editing the shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+I do not know how I can check your allowed payment options,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I do not know how I can check your allowed payment options<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I have to check in which cases can I ask to be reimbursed,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I have to check in which cases can I ask to be reimbursed<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+I cannot submit another shipping address,set_up_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I cannot submit another shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""set_up_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+there are errors trying to update my shipping address,change_shipping_address,SHIPPING,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+there are errors trying to update my shipping address<|im_end|>
+<|im_start|>assistant
+{""intent"": ""change_shipping_address"", ""category"": ""SHIPPING""}<|im_end|>
+"
+find informtaion about my forgotten pin,recover_password,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+find informtaion about my forgotten pin<|im_end|>
+<|im_start|>assistant
+{""intent"": ""recover_password"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I'd like to see order {{Order Number}} current status will  uhelp me,track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I'd like to see order {{Order Number}} current status will  uhelp me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+how to inform of a payment error?,payment_issue,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+how to inform of a payment error?<|im_end|>
+<|im_start|>assistant
+{""intent"": ""payment_issue"", ""category"": ""PAYMENT""}<|im_end|>
+"
+editing data on pro account,edit_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+editing data on pro account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""edit_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+have a problem with the deletio of my premium account,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+have a problem with the deletio of my premium account<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+check the withdrawal fees,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+check the withdrawal fees<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"
+I need help canceling purchase {{Order Number}},cancel_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help canceling purchase {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""cancel_order"", ""category"": ""ORDER""}<|im_end|>
+"
+locate order {{Order Number}},track_order,ORDER,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+locate order {{Order Number}}<|im_end|>
+<|im_start|>assistant
+{""intent"": ""track_order"", ""category"": ""ORDER""}<|im_end|>
+"
+I try to see th accepted payment options,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I try to see th accepted payment options<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+want help to check in what situations can i ask for refunds,check_refund_policy,REFUND,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+want help to check in what situations can i ask for refunds<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_refund_policy"", ""category"": ""REFUND""}<|im_end|>
+"
+another {{Account Type}} account for father,create_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+another {{Account Type}} account for father<|im_end|>
+<|im_start|>assistant
+{""intent"": ""create_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+need to see the allowed payment options can uhelp me,check_payment_methods,PAYMENT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+need to see the allowed payment options can uhelp me<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_payment_methods"", ""category"": ""PAYMENT""}<|im_end|>
+"
+I need assistance seeing how soon can I expect the purchase,delivery_period,DELIVERY,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need assistance seeing how soon can I expect the purchase<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delivery_period"", ""category"": ""DELIVERY""}<|im_end|>
+"
+problem with a pro account removal,delete_account,ACCOUNT,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+problem with a pro account removal<|im_end|>
+<|im_start|>assistant
+{""intent"": ""delete_account"", ""category"": ""ACCOUNT""}<|im_end|>
+"
+I need help to see the early exit fees,check_cancellation_fee,CANCEL,"<|im_start|>system
+You are a customer support intent classifier. Return only a valid JSON object containing the intent and category.<|im_end|>
+<|im_start|>user
+I need help to see the early exit fees<|im_end|>
+<|im_start|>assistant
+{""intent"": ""check_cancellation_fee"", ""category"": ""CANCEL""}<|im_end|>
+"

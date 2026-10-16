@@ -1,0 +1,12 @@
+{
+  "baseline": {
+    "valid": 391,
+    "total": 391,
+    "adherence_rate": 100.0
+  },
+  "naive_rag": {
+    "valid": 391,
+    "total": 391,
+    "adherence_rate": 100.0
+  }
+}

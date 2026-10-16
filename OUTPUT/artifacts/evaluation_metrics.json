@@ -1,0 +1,8 @@
+{
+  "functional_correctness_baseline": 95.0,
+  "functional_correctness_rag": 75.0,
+  "consistency_baseline": 100.0,
+  "consistency_rag": 100.0,
+  "hallucination_frequency_baseline": 0.0,
+  "hallucination_frequency_rag": 0.0
+}
